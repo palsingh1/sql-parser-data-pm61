@@ -1,0 +1,1000 @@
+PLAN_ID,PLAN_NAME,MER,DISC,PACKAGE,LEN,ROLLUP1,ASP,STARTDATE,ENDDATE
+249,Promo - All Access - 12mo - 132.00 - (+$1.00 per month),11.0,Discount,All Access,Annual,All Access Discount Annual,Y,01/11/17 00:00,12/12/99 00:00
+250,Mostly Music - 1mo - Pandora,5.0,Discount,Mostly Music,Monthly,Mostly Music Discount Monthly,N,01/02/19 00:00,12/12/99 00:00
+251,All Access - 1mo - wActv|Veteran 25% OffA1,15.74,Discount,All Access,Monthly,All Access Monthly - 25% Off,N,01/01/19 00:00,30/07/19 00:00
+252,Fixed Demo - Select - 6mo - (Used Car),0.0,TBD,Select,Semi Annual,Select Semi,TBD,05/01/15 00:00,30/06/15 00:00
+253,NavTraffic + NavWeather - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+254,Marine Offshore - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+255,Introductory - Marine Coastal - 12mo w/1mo Savings - wActv,6.66,Full Price,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+256,Commercial Family - 1mo - (D2B) - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+257,Introductory - All Access - 12mo w/2mo Savings - wActv,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+258,Aviator LT - 12mo - wActv,6.66,Full Price,TBD,Annual,Other,Y,05/01/15 00:00,30/06/15 00:00
+259,Voyager + Select - 24mo w/3mo Free - wActv,14.99,Full Price,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+260,Select Family Friendly - 3mo,13.99,Full Price,Select,Quarterly,Select Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+261,Introductory - Aviator - 12mo w/1mo Savings - wActv,0.0,Data,Data,Annual,Data,Y,01/04/18 00:00,12/12/99 00:00
+262,Promo - Select - Semi-Annual - (25% off),11.24,Full Price,Select,Semi Annual,Select Semi,N,01/03/18 00:00,12/12/99 00:00
+263,Mostly Music - 3mo,9.99,Full Price,Mostly Music,Quarterly,Mostly Music Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+264,Promo - Marine Offshore - 2mo - (Half-off) - 1X,14.99,Discount,Other,Monthly,Other,N,01/01/17 00:00,12/12/99 00:00
+265,Promo - Marine Coastal - 6mo - (Half-off) - 1X,14.99,Discount,Other,Semi Annual,Other,N,01/07/17 00:00,12/12/99 00:00
+266,Fleet - Select - 1mo - wActv - 8.99,8.99,Full Price,Select,Monthly,Select Monthly,N,01/11/16 00:00,12/12/99 00:00
+267,Courtesy - Promo - Select - 5mo - 24.99 (2018 MRF),5.0,Discount,Select,Annual,5 for 25,N,01/01/19 00:00,12/12/99 00:00
+268,Premier - Life - 799.00 - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+269,Courtesy - Traffic - 12mo w/1mo Savings - 1X,6.66,Full Price,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+270,Promo - Select - 12mo - 86.00 - (Half-Off),7.495,Discount,Select,Annual,Half off/year,Y,05/01/15 00:00,30/06/15 00:00
+271,Promo - All Access - Semi-Annual - (25% off),15.74,Full Price,All Access,Semi Annual,All Access Semi - 25% off,N,14/02/18 00:00,12/12/99 00:00
+272,Promo - Voyager + Select - 6mo - wActv,14.99,Full Price,Select,Semi Annual,Select Semi,TBD,05/01/15 00:00,30/06/15 00:00
+273,Promo - All Access - Annual - (30% off for 12 mos),14.693000000000001,Discount,All Access,Annual,All Access Discount Annual,Y,01/07/18 00:00,12/12/99 00:00
+274,Promo - Voyager + All Access - 6mo - (Half-off) - 1X,11.99,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/11/17 00:00,12/12/99 00:00
+275,Promo - NavTraffic + NavWeather - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+276,Marine Offshore - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+277,Courtesy - Promo - Select - 12mo - 99.00 (Legacy MRF),8.25,Discount,Select,Annual,1 yr/$99,Y,14/02/18 00:00,12/12/99 00:00
+278,Travel-Link - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+279,Promo - All Access - 6mo (49.99) - 1X,8.3317,Discount,All Access,Semi Annual,All Access Discount Semi,N,05/01/15 00:00,30/06/15 00:00
+280,Promo - Select - 12mo - 99.00 - (OAC) - 1X,8.25,Discount,Select,Annual,1 yr/$99,Y,01/01/14 00:00,12/12/99 00:00
+281,Select - 12mo - wActv|Promo Annual 25% Off,11.99,Discount,Select,Annual,Select Annual - 25% off,Y,01/01/19 00:00,12/12/99 00:00
+282,Promo - Premier - 12mo w/6mo Free (Half-Off) - 1X,7.5,Discount,Select,Annual,Half off/year,Y,05/01/15 00:00,30/06/15 00:00
+283,Promo - Select Family Friendly - 6mo w/2mo Free (3FOR1) - 1X,9.326666667,Discount,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+284,All Access - 1mo - wActv,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,05/01/15 00:00,30/06/15 00:00
+285,Promo - Traffic - 5mo - 10.00 (5FOR10),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+286,Espanol - 12mo,5.99,Full Price,Espanol,Annual,Espanol Annual,Y,05/01/15 00:00,30/06/15 00:00
+287,Fleet - Select Family Friendly- 1mo - wActv - 8.99,8.99,Full Price,Select,Monthly,Select Monthly,N,01/10/18 00:00,12/12/99 00:00
+288,Promo - Select - 5mo - 28.00 - (+$.60 per month),5.6000000000000005,Discount,Select,5 Months,5 for 28,N,01/05/17 00:00,12/12/99 00:00
+289,News-Sports-Talk - 12mo,10.99,Full Price,Other,Annual,Other,Y,05/01/15 00:00,30/06/15 00:00
+290,Fixed Demo - Premier - 6mo - 0.00 - (Used Car),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+291,Mostly Music - 1mo - wActv,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,05/01/15 00:00,30/06/15 00:00
+292,Promo - Voyager + All Access Family Friendly - 6mo - (Half-off) - 1X,11.99,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/07/18 00:00,12/12/99 00:00
+293,Travel-Link - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+294,Introductory - Travel-Link + Traffic - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+295,A La Carte Gold - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+296,Fleet - All Access - 12mo - wActv - 143.88,11.99,Full Price,All Access,Annual,All Access Annual,Y,01/11/16 00:00,30/06/17 00:00
+297,Promo - Select - 6mo - 29.94 - (4.99FOR6) - 1X,5.0,Discount,Select,Semi Annual,6 for 30,N,05/01/15 00:00,30/06/15 00:00
+298,Promo - Select Lite - 6mo - 29.94 - (4.99FOR6),4.99,Discount,Select Lite,Semi Annual,6 for 30 Select Lite,N,01/06/19 00:00,12/12/99 00:00
+299,Promo - Select - 12mo - 99.00 - (OAC),8.25,Discount,Select,Annual,1 yr/$99,Y,01/01/14 00:00,12/12/99 00:00
+300,Introductory - Select - 24mo w/2mo Savings - wActv,14.99,Full Price,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+301,Promo - Select Plus SXIR - 6mo - 29.94 - (4.99FOR6) - 1X,4.99,Discount,Select,Semi Annual,6 for 30,N,01/12/16 00:00,12/12/99 00:00
+302,Promo - All Access - 3mo - 0.00 - Amazon - (OLPT),0.0,Discount,All Access,Quarterly,All Access Discount Quarterly,N,01/06/19 00:00,12/12/99 00:00
+303,Promo - Select - 5mo - 29.99 - (5for30),6.0,Discount,Select,Quarterly,5 for 30,N,05/01/15 00:00,30/06/15 00:00
+304,All Access - 1mo - wActv|Promo 25% Off for 12mosA1,15.74,Discount,All Access,Monthly,All Access Monthly - 25% Off,N,01/01/19 00:00,12/12/99 00:00
+305,All Access - 1mo - wETF (6mo50) - AMZ DOT-G3,20.990000000000002,Full Price,All Access,Monthly,All Access Monthly AMZ DOT,N,01/10/18 00:00,12/12/99 00:00
+306,All Access - 12mo - wETF (6mo50) - AMZ DOT-G3 - (OAC),8.25,Discount,All Access,Annual,All Access Discount Annual AMZ DOT,Y,01/02/19 00:00,12/12/99 00:00
+307,Promo - Select - 12mo - 132.00,11.0,Discount,Select,Annual,12 for 132,Y,01/06/19 00:00,12/12/99 00:00
+308,Promo - NavTraffic - 6mo w/1mo Free (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+309,Promo - Select - 6mo - 29.94,4.99,Discount,Select,Semi Annual,6 for 30,N,01/02/13 00:00,31/12/13 00:00
+310,Promo - Select - Monthly - (25% off/mo for 12 mos),11.99,Discount,Select,Monthly,Select Monthly - 25% off,N,14/02/18 00:00,12/12/99 00:00
+311,All Access Family Friendly - 24mo - wActv,17.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+312,Courtesy - Select Family Friendly - 36mo w/5mo Savings - 1X,13.49,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+1,NavWeather - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+2,Promo - All Access - 6mo - 96.00,16.0,Discount,All Access,Semi Annual,6 for 96 All Access,N,01/06/19 00:00,12/12/99 00:00
+3,Courtesy - Promo - Select - 12mo - 95.94 (Legacy MRF),7.995,Discount,Select,Annual,1 yr/$99,Y,14/02/18 00:00,12/12/99 00:00
+4,All Access - 3mo - wActv,18.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,05/01/15 00:00,30/06/15 00:00
+5,Promo - Select - 6mo - 48.00 - wETF (6mo50) - AMZ DOT-G3,8.0,Discount,Select,Semi Annual,6 for 48 Select AMZ,N,01/06/19 00:00,12/12/99 00:00
+6,Select - Life - (Restore 2005),14.99,Full Price,Other,Three Year,Other,Y,01/07/17 00:00,12/12/99 00:00
+7,Fleet - All Access Family Friendly - 1mo - wActv - 14.49,14.49,Full Price,All Access,Monthly,All Access Monthly,N,01/04/18 00:00,12/12/99 00:00
+8,Select Family Friendly - 1mo,13.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+9,All Access - 1mo - wActv|Promo $11 Off for 12mosAA,9.99,Discount,All Access,Monthly,All Access Discount Monthly ($11 off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+10,Travel-Link - 12mo w/1mo Free,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+11,Introductory - NavTraffic + NavWeather - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+12,Fleet - Select - 12mo - wActv - 131.88,10.99,Full Price,Select,Annual,Select Annual,Y,01/01/17 00:00,12/12/99 00:00
+13,Promo - Select - 12mo - 96.00 - wETF (6mo50) - AMZ DOT-G3,8.0,Discount,Select,Annual,12 for 96 Select AMZ,Y,01/06/19 00:00,12/12/99 00:00
+14,Courtesy - All Access - 6mo (Legacy MRF),20.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,14/02/18 00:00,12/12/99 00:00
+15,Promo - All Access - Annual - (45% off for 12 mos),11.540000000000001,Discount,All Access,Annual,All Access Discount Annual,Y,01/10/18 00:00,12/12/99 00:00
+16,All Access - 1mo - wETF (6mo50) - AMZ|Promo $8.25/mo AA for 12mos - AMZ DOT - G3,8.25,Discount,All Access,Monthly,All Access - 1mo - wETF (6mo50) - AMZ|Promo $8.25/mo AA for 12mos - AMZ DOT - G3,N,01/11/19 00:00,12/12/99 00:00
+17,Promo - Select - 5mo - 27.00 - (+$.40 per month),5.0,Discount,Select,Quarterly,Discount Select Quarterly,N,01/07/17 00:00,12/12/99 00:00
+18,Courtesy - Select Family Friendly - 12mo w/1mo Savings - 1X,13.49,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+19,2005 Promotion - 3 Year Plan - 359.64 w/MRF GRACE,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+20,Promo - All Access - 6mo (49.99) - (OAC),8.33,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/01/17 00:00,12/12/99 00:00
+21,Voyager + Select Family Friendly - 3mo - wActv,14.99,Full Price,Select,Quarterly,Select Quarterly,N,01/11/17 00:00,12/12/99 00:00
+22,Promo - Select - 5mo - No MRD,6.66,Discount,Select,5 Months,Other,N,05/01/15 00:00,30/06/15 00:00
+23,Fleet - Select - 1mo - wActv,14.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+24,Select - 36mo - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+25,Long Term Plan - All Access - 5 yrs (WBOVCORP),3.3200000000000003,Discount,All Access,Five Year,All Access Discount 5 Year,Y,01/04/18 00:00,12/12/99 00:00
+26,Select Lite - 1mo|Promo $11 Off for 12mos,4.99,Discount,Select Lite,Monthly,Select Lite Discount Monthly ($11 Off for 12mos),N,01/06/19 00:00,12/12/99 00:00
+27,Promo - Select - Annual - (20% off for 12 mos),12.790000000000001,Full Price,Select,Annual,Select Annual,Y,01/10/18 00:00,12/12/99 00:00
+28,Introductory - Pilot Preferred - 24mo w/2mo Savings - wActv,15.99,Full Price,Select,Two Year,Select 2 year,Y,14/02/18 00:00,12/12/99 00:00
+29,Select - 12mo w/1mo Free - wHW Actv - wETF,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+30,Introductory - NavTraffic - 12mo w/1mo Savings - wActv,0.0,Data,Other,Annual,Data,Y,01/07/17 00:00,30/06/17 00:00
+31,Travel-Link + Traffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+32,Courtesy - Select Family Friendly - 12mo - 1X,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,12/12/99 00:00
+33,Promo - Select - 1mo - (NO MRF) - 0.99 (Web),0.99,Discount,Select,Monthly,1 Month/$.99,TBD,05/01/15 00:00,30/06/15 00:00
+34,Promo - Select Lite - 5mo - 24.99 (5FOR25) - Quarterly Rollover,4.998,Discount,Select Lite,Quarterly,5 for 25 Select Lite,N,01/06/19 00:00,12/12/99 00:00
+35,Select - 1mo - wActv|Promo $8.99/mo Select for 12mos,8.99,Discount,Select,Monthly,Select - 1mo - wActv|Promo $8.99/mo Select for 12mos,N,01/11/19 00:00,12/12/99 00:00
+36,3 Year Promotion,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+37,Promo - Select - 6mo - 69.00 - wETF (6mo69) - GGLEHUB1,11.5,Discount,Select,Monthly,Promo - Select - 6mo - 69.00 - wETF (6mo69) - GGLEHUB1,N,01/11/19 00:00,12/12/99 00:00
+38,Promo - Select - 6mo - 24.99 (6for25),4.1667000000000005,Discount,Select,Semi Annual,6 for 25,N,05/01/15 00:00,30/06/15 00:00
+39,Courtesy - Mostly Music - 1mo - 1X,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,05/01/15 00:00,30/06/15 00:00
+40,Introductory - Marine Inland - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,Y,05/01/15 00:00,30/06/15 00:00
+41,News-Sports-Talk - 3mo,10.99,Full Price,Other,Quarterly,Other,TBD,05/01/15 00:00,30/06/15 00:00
+42,Promo - Select - 12mo - 89.00SelfPay,7.416666667,Discount,Select,Annual,Half off/year,Y,05/01/15 00:00,30/06/15 00:00
+43,Courtesy - All Access Family Friendly - 12mo - 2017,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/12/17 00:00,30/11/17 00:00
+44,Voyager + Select - 36mo - wActv,14.99,Full Price,Select,Three Year,Select 3 year,Y,01/04/18 00:00,12/12/99 00:00
+45,Quarterly Service,14.99,Full Price,Select,Quarterly,Other,N,05/01/15 00:00,30/06/15 00:00
+46,Premier - 3mo - wHW Actv - wETF,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+47,Introductory - All Access - 24mo w/2mo Savings,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+48,Introductory - All Access - 12mo w/2mo Savings,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+49,Promo - All Access - 24mo - Select Price,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+50,A La Carte Gold - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+51,Sirius XM ALL ACCESS - 1mo - wHW Actv - wETF,18.990000000000002,Full Price,All Access,Monthly,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+52,Promo - All Access - 3mo - $0.00 - GOOGLE (RTP) - (OAC),0.0,Discount,All Access,Quarterly,Promo - All Access - 3mo - $0.00 - GOOGLE (RTP) - (OAC),N,01/10/19 00:00,12/12/99 00:00
+53,Travel-Link - 24mo w/3mo Free,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+54,Promo - Voyager + All Access - 2mo - (Half-off) - 1X,11.99,Discount,All Access,Monthly,All Access Discount Monthly,N,01/07/17 00:00,12/12/99 00:00
+55,Voyager + Select - 6mo - wActv,14.99,Full Price,Select,Semi Annual,Select Semi,N,01/01/14 00:00,26/04/16 00:00
+56,Fleet - All Access Family Friendly - 12mo - wActv - 173.88,14.49,Full Price,All Access,Annual,All Access Annual,Y,01/04/18 00:00,12/12/99 00:00
+57,Promo - Select - 12mo - 60.00 - wETF (6mo50) - AMZ DOT-G3 - (WEB),5.0,Discount,Select,Annual,12 for 60 Select AMZ,Y,01/10/19 00:00,12/12/99 00:00
+58,Sponsored - OEM Trial - ALL ACCESS - 12mo - 116.55,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+59,Promo - Select - 12mo - 60.00,5.0,Discount,Select,Annual,12 for 60,Y,01/11/17 00:00,12/12/99 00:00
+60,OEM Trial - Select - 3mo - 0.00 - (Used Car),0.0,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+61,Marine Coastal - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+62,Promo - Travel-Link - 5mo (5for20/25/30) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+63,Promo - All Access - 12mo - 99.00 - wETF (6mo50) - AMZ DOT-G3 - (OLPT),8.25,Discount,All Access,Annual,All Access Discount Annual AMZ DOT,Y,01/11/18 00:00,12/12/99 00:00
+64,Promo - Travel-Link - 12mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+65,Promo - Traffic - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+66,Travel-Link + Traffic - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+67,Promo - NavWeather - 6mo (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+68,Voyager + Select - 12mo w/1mo Free - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+69,Promo - Premier - 24mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+70,Select - 6mo,14.99,Full Price,Select,Semi Annual,Select Semi,TBD,05/01/15 00:00,30/06/15 00:00
+71,Select - 1mo - wActv|Promo $4.99/mo Select for 6mos,4.99,Discount,Select,Monthly,Select Discount Monthly,N,01/11/19 00:00,12/12/99 00:00
+72,Promo - Select Plus SXIR - 6mo - 29.94 - (4.99FOR6) - (OAC) - 1X,4.99,Discount,Select,Semi Annual,6 for 30,N,01/11/17 00:00,12/12/99 00:00
+73,Promo - Select - 5mo - 24.99 (5FOR25) - WBFB,5.0,Discount,Select,5 Months,5 for 25,N,01/06/16 00:00,12/12/99 00:00
+74,Lifetime Subscriber,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+75,Promo - Traffic - 12mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+76,NavTraffic - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+77,Courtesy - News-Sports-Talk - 1mo - 1X,9.99,Full Price,Other,Monthly,Other,N,05/01/15 00:00,30/06/15 00:00
+78,Basic Plus - Special Pricing - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,N,05/01/15 00:00,30/06/15 00:00
+79,Commercial Standard - 12mo w/1mo Free - (NO MRF) - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+80,Promo - Veteran - Select - 1mo,11.99,Full Price,Select,Monthly,Select Monthly,N,01/07/17 00:00,12/12/99 00:00
+81,Promo - All Access - 6mo - 90.00,15.0,Discount,All Access,Semi Annual,6 for 90 All Access,N,01/06/19 00:00,12/12/99 00:00
+82,Promo - Select - 5mo - 44.99 - (5for45) - Quarterly Rollover,9.0,Discount,Select,5 Months,5 for 45,N,01/01/14 00:00,12/12/99 00:00
+83,Annual Service,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+84,Sponsored - OEM Trial - All Access - 12mo - 118.98,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+85,Courtesy - Select - 3mo - 1X,14.99,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,26/04/16 00:00
+86,Promo - Select - 1mo - ($6 Off for 6 mos),9.99,Discount,Select,Monthly,Select Discount Monthly ($6 Off for 6mos),N,01/10/18 00:00,12/12/99 00:00
+87,Basic Plus - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,N,05/01/15 00:00,30/06/15 00:00
+88,Courtesy - All Access - 3mo - 1X,17.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,05/01/15 00:00,30/06/15 00:00
+89,Voyager + Select - 3mo - wActv,14.99,Full Price,Select,Quarterly,Select Quarterly,N,01/11/16 00:00,12/12/99 00:00
+90,Courtesy - Introductory - Select Family Friendly - 24mo w/2mo Savings - 1X,14.99,Full Price,Select,Two Year,Select 2 Year,Y,01/06/16 00:00,12/12/99 00:00
+91,Promo - All Access - 12mo - 119.88 - wETF (6mo50) - AMZ DOT-G3 - (OLPT),9.99,Discount,All Access,Annual,All Access Discount Annual AMZ DOT,Y,01/10/18 00:00,12/12/99 00:00
+92,Promo - All Access - 2mo - 0.00,0.0,Discount,All Access,Quarterly,All Access Discount 2 month $0,N,01/06/19 00:00,12/12/99 00:00
+93,Sponsored - OEM Trial - Select - 6mo - 19.43,0.0,Full Price,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+94,Promo - Mostly Music - 12mo,9.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,05/01/15 00:00,30/06/15 00:00
+95,Espanol Plus - 12mo,8.49,Full Price,Espanol,Annual,Espanol Annual,Y,05/01/15 00:00,30/06/15 00:00
+96,Marine Inland - 3mo - wActv,14.99,Full Price,Select,TBD,Other,N,05/01/15 00:00,30/06/15 00:00
+97,Promo - Traffic + Travel-Link - 5mo - 20.00,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+98,All Access - 12mo - wActv|Veteran 25% Off,15.74,Discount,All Access,Annual,All Access Monthly - 25% Off,Y,01/01/19 00:00,30/07/19 00:00
+99,Promo - Select - 6mo w/3mo Free - (Half-Off) - 1X,7.495,Discount,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+100,Promo - Marine Offshore - 6mo - (Half-off) - 1X,14.99,Discount,Other,Semi Annual,Other,N,01/07/17 00:00,12/12/99 00:00
+101,Courtesy - Traffic - 24mo w/3mo Savings - 1X,6.66,Full Price,Other,Two Year,Other,Y,05/01/15 00:00,30/06/15 00:00
+102,Promo - All Access - 6mo (49.99) - SC,8.33,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/09/16 00:00,12/12/99 00:00
+103,All Access - 1mo - wActv|Promo $11.99/mo AA for 12mos,11.99,Discount,All Access,Monthly,All Access - 1mo - wActv|Promo $11.99/mo AA for 12mos,N,01/11/19 00:00,12/12/99 00:00
+104,Sponsored - OEM Trial - All Access - 12mo - 117.00,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+105,Select - 1mo - wActv|Promo $10 Off for 6mos,5.99,Discount,Select,Monthly,Select Discount Monthly ($10 Off for 6mos),N,01/01/19 00:00,12/12/99 00:00
+106,Promo - Select - 6mo - 33.00 - (+$.50 per month),5.5,Discount,Select,Semi Annual,Select Discount Semi,N,01/05/17 00:00,12/12/99 00:00
+107,Introductory - All Access Family Friendly - 36mo w/3mo Savings - wActv,17.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+108,Voyager + Select Family Friendly - 1mo - wActv,13.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+109,Select Lite - 1mo|Promo $4.99/mo Select for 12mos,4.99,Discount,Select Lite,Monthly,Select Lite Discount Monthly ($11 Off for 12mos),N,01/11/19 00:00,12/12/99 00:00
+110,News-Sports-Talk - 1mo,10.99,Full Price,Other,Monthly,Other,TBD,05/01/15 00:00,30/06/15 00:00
+111,Commercial Family - 12mo w/1mo Free - (NO MRF) - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+112,Fleet - Select - 1mo - wActv - 10.99,10.99,Full Price,Select,Monthly,Select Monthly,N,01/11/16 00:00,12/12/99 00:00
+113,Introductory - Voyager + Select Family Friendly - 12mo w/1mo Savings - wActv,13.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+114,Promo - Veteran - Mostly Music - 1mo,10.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,01/11/17 00:00,12/12/99 00:00
+115,Sponsored - OEM Trial - All Access - 12mo - 126.00,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+116,Promo - Select - 12mo - 109.00,9.08,Discount,Select,Annual,12 for 109,Y,01/01/14 00:00,12/12/99 00:00
+117,Promo - Select Plus SXIR - 12mo - 89.00 - (Half-Off) - 1X,7.41,Discount,Select,Annual,Half off/year,Y,01/02/17 00:00,12/12/99 00:00
+118,Introductory - Voyager + All Access - 12mo w/1mo Savings - wActv,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+119,Promo - Select - 6mo - 48.00 - ($8.00/mo),8.0,Discount,Select,Semi Annual,6 for 48,N,01/10/18 00:00,12/12/99 00:00
+120,Promo - Select Family Friendly - 12mo w/6mo Free (Half-Off) - 1X,6.995,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+121,Long Term Plan - All Access - 3 yrs,4.13,Discount,All Access,Three Year,All Access Discount 3 Year,Y,01/12/17 00:00,12/12/99 00:00
+122,Promo - All Access - 6mo (49.99) - (OAC) - 1X,8.33,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/02/17 00:00,12/12/99 00:00
+123,Introductory - All Access - 12mo w1mo Savings - wETF (6mo50) - AMZ DOT-G3,20.990000000000002,Full Price,All Access,Annual,All Access Annual AMZ DOT,Y,01/11/18 00:00,12/12/99 00:00
+124,A La Carte + Howard - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+125,Select Lite - 1mo|Promo $10 Off for 12mos,5.99,Discount,Select Lite,Monthly,Select Lite Discount Monthly ($10 Off for 12mos),N,01/06/19 00:00,12/12/99 00:00
+126,Promo - News-Sports-Talk - 3mo w/2mo Free (3FOR1) - 1X,3.33,Discount,Other,Quarterly,Other,N,05/01/15 00:00,30/06/15 00:00
+127,Promo - All Access - 6mo (60.00),10.0,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/06/19 00:00,12/12/99 00:00
+128,Premier - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+129,News-Sports-Talk - 3mo - wActv,10.99,Full Price,Other,Quarterly,Other,TBD,05/01/15 00:00,30/06/15 00:00
+130,Courtesy - All Access - 24mo - Select Price,19.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/07/17 00:00,30/11/17 00:00
+131,Promo - All Access - 6mo - 99.00 - wETF (6mo99) - GGLEHUB1,16.5,Discount,All Access,Semi Annual,Promo - All Access - 6mo - 99.00 - wETF (6mo99) - GGLEHUB1,N,01/11/19 00:00,12/12/99 00:00
+132,Fleet - All Access - 12mo - wActv - 167.88,13.99,Full Price,All Access,Annual,All Access Annual,Y,01/11/17 00:00,30/11/17 00:00
+133,Promo - All Access - 3mo - 2.00 - (Discovery) - 1X,5.0,Discount,All Access,Quarterly,Discount Trial Extension,N,01/09/16 00:00,30/07/19 00:00
+134,Select - 3mo,14.99,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+135,Promo - Marine Offshore - 3mo - (Half-off) - 1X,14.99,Discount,Other,Quarterly,Other,N,01/01/17 00:00,12/12/99 00:00
+136,Courtesy - Introductory - Select - 24mo w/2mo Savings (2018 MRF),14.66,Full Price,Select,Two Year,Select 2 Year,Y,01/06/19 00:00,12/12/99 00:00
+137,Fleet - Select - 12mo - wActv - 113.88,9.49,Full Price,Select,Annual,Select Annual,Y,01/02/17 00:00,12/12/99 00:00
+138,Espanol - 1mo,5.99,Full Price,Espanol,Monthly,Espanol Monthly,N,05/01/15 00:00,30/06/15 00:00
+139,Select - 1mo - wActv|Promo $10.99/mo Select for 12mos,10.99,Discount,Select,Monthly,Select - 1mo - wActv|Promo $10.99/mo Select for 12mos,N,01/11/19 00:00,12/12/99 00:00
+140,Courtesy - Promo - Select - 6mo - 29.94 (Legacy MRF),4.99,Discount,Select,Semi Annual,6 for 30,N,14/02/18 00:00,12/12/99 00:00
+141,Fleet - Select - 12mo - wActv - 119.88,9.99,Full Price,Select,Annual,Select Annual,Y,01/04/18 00:00,12/12/99 00:00
+142,Select - 12mo w/1mo Free - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+143,Courtesy - All Access - 3mo (Legacy MRF),20.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,14/02/18 00:00,12/12/99 00:00
+144,Espanol Plus - 1mo,8.49,Full Price,Espanol,Monthly,Espanol Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+145,Promo - Select - 3mo w/2mo Free (3FOR1),4.996700000000001,Discount,Select,Quarterly,3 for 1,N,05/01/15 00:00,30/06/15 00:00
+146,Select Family Friendly - Life - 0.00,14.99,Full Price,Other,Three Year,Other,Y,01/07/17 00:00,12/12/99 00:00
+147,Sirius XM ALL ACCESS - 3mo - wHW Actv - wETF,19.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/01/14 00:00,30/11/17 00:00
+148,Sponsored - OEM Trial - All Access - 3mo - 25.90,0.0,Full Price,All Access,Quarterly,All Access Quarterly,N,05/01/15 00:00,30/06/15 00:00
+149,Select - 12mo - wHW Actv - wETF,15.99,Full Price,Select,Annual,Select Annual,Y,01/01/19 00:00,12/12/99 00:00
+150,Promo - Select - 6mo - 69.00 - wETF (6mo69) - GGLEHUB1 (OLPT),11.5,Discount,Select,Semi Annual,Promo - Select - 6mo - 69.00 - wETF (6mo69) - GGLEHUB1 (OLPT),N,01/11/19 00:00,12/12/99 00:00
+151,Courtesy - News-Sports-Talk - 12mo - 1X,9.99,Full Price,Other,Annual,Other,Y,05/01/15 00:00,30/06/15 00:00
+152,Promo - All Access - 6mo - 49.99 - wETF (6mo50) - AMZ DOT-G3,8.33,Discount,All Access,Semi Annual,All Access Discount Semi AMZ DOT,N,01/10/18 00:00,12/12/99 00:00
+153,Select - 1mo - wActv|Promo $5.99/mo Select for 6mos,5.99,Discount,Select,Monthly,Select Discount Monthly ($10 Off for 6mos),N,01/11/19 00:00,12/12/99 00:00
+154,Select - 12mo - wActv|Promo Annual 40% OffA1,9.59,Discount,Select,Annual,Select Discount Annual,Y,01/01/19 00:00,12/12/99 00:00
+155,Promo - Select - 6mo - 69.00 - wETF (6mo69) - GGLEHUB1 (Web),11.5,Discount,Select,Semi Annual,Select Discount Semi,N,01/11/19 00:00,12/12/99 00:00
+156,Promo - Select - 6mo w/3mo Free - (Half-Off) - wHW Actv - wETF,8.0,Discount,Select,Semi Annual,Promo - Select - 6mo w/3mo Free - (Half-Off) - wHW Actv - wETF,N,01/10/19 00:00,12/12/99 00:00
+157,Promo - All Access - 6mo - 49.99 - wETF (6mo50) - AMZ DOT-G3 - (OLPT),8.33,Discount,All Access,Semi Annual,All Access Discount Semi AMZ DOT,N,01/10/18 00:00,12/12/99 00:00
+158,NavTraffic - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+159,Promo - Select - 12mo - 84.00 - ($7.00/mo),7.0,Discount,Select,Annual,12 for 84,Y,01/10/18 00:00,12/12/99 00:00
+160,Sponsored - OEM Trial - All Access - 6mo - 64.75,0.0,Full Price,All Access,Semi Annual,All Access Semi,N,05/01/15 00:00,30/06/15 00:00
+161,Promo - All Access - 12mo - 144.00 - wETF (6mo50) - AMZ DOT-G3,12.0,Discount,All Access,Annual,12 for 144 All Access AMZ,Y,01/06/19 00:00,12/12/99 00:00
+162,Fleet - Select - 1mo - wActv - 9.99,9.99,Full Price,Select,Monthly,Select Monthly,N,01/01/17 00:00,12/12/99 00:00
+163,Premier Family Friendly - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+164,OEM Trial - Premier - 1mo - 0.00,0.0,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+165,Sponsored - OEM Trial - Select - 6mo - 77.70,0.0,Full Price,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+166,Introductory - Select - 36mo w/3mo Savings - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+167,NavTraffic + NavWeather - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+168,Promo - Traffic - 3mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+169,All Access - 12mo - wActv|Promo Annual 25% Off,15.74,Discount,All Access,Annual,All Access Annual - 25% Off,Y,01/01/19 00:00,12/12/99 00:00
+170,Promo - NavTraffic + NavWeather - 12mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+171,Promo - NavTraffic - 12mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+172,Promo - Veteran - Select - 3mo,11.99,Full Price,Select,Quarterly,Select Quarterly,N,01/11/17 00:00,12/12/99 00:00
+173,Premier Add-on - 1mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+174,Courtesy - Introductory - Select - 24mo w/2mo Savings - 1X,14.99,Full Price,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,26/04/16 00:00
+175,Fleet - All Access - 1mo - wActv - 14.49,14.49,Full Price,All Access,Monthly,All Access Monthly,N,01/11/16 00:00,30/06/17 00:00
+176,Promo - Select Family Friendly - 24mo,6.66,Discount,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+177,Promo - Select - 12mo - 129.00,10.75,Discount,Select,Annual,12 for 129,Y,01/01/14 00:00,12/12/99 00:00
+178,Promo - Select - 12mo - 132.00 - wETF (6mo50) - AMZ DOT-G3,11.0,Discount,Select,Annual,12 for 132 Select AMZ,Y,01/06/19 00:00,12/12/99 00:00
+179,Promo - Select - Annual - (50% off for 12 mos),7.99,Discount,Select,Annual,Select Discount Annual,Y,01/11/17 00:00,12/12/99 00:00
+180,Promo - Select - 3mo w/2mo Free (3FOR1) - Quarterly Rollover,7.8,Discount,Select,Quarterly,3 for 1,N,01/02/17 00:00,12/12/99 00:00
+181,Courtesy - Select - 12mo - 1X,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,26/04/16 00:00
+182,Promo - Select - 6mo - 54.00 - ($9.00/mo),9.0,Discount,Select,Semi Annual,6 for 54,N,01/10/18 00:00,12/12/99 00:00
+183,Promo - Select - 6mo - 29.94SelfPay,4.99,Discount,Select,Semi Annual,6 for 30,N,05/01/15 00:00,30/06/15 00:00
+184,Promo - All Access - 3mo - 0.00 - wActv,0.0,Discount,All Access,Quarterly,All Access Discount Quarterly $0,N,01/04/18 00:00,12/12/99 00:00
+185,Fleet - Select - 1mo - wActv - 10.49,10.49,Full Price,Select,Monthly,Select Monthly,N,01/11/17 00:00,12/12/99 00:00
+186,Traffic - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+187,Promo - Travel-Link - 5mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+188,A La Carte - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+189,Introductory - Marine Offshore - 24mo w/2mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+190,Aviator - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+191,Promo - All Access - 6mo - 54.00 - (+$.67 per month),9.0,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/05/17 00:00,12/12/99 00:00
+192,Promo - All Access - 12mo - 119.88 (9.99mo) - (OAC) - 1X,9.99,Discount,All Access,Annual,All Access Discount Annual,Y,01/05/17 00:00,12/12/99 00:00
+193,Premier - Life - 0.00,19.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,01/01/17 00:00,12/12/99 00:00
+194,Promo - NavTraffic - 6mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+195,Introductory - Mirge - SiriusXM All-In-One - 24mo w/2mo Savings - wActv,19.990000000000002,Full Price,Other,Two Year,All Access Annual,Y,01/02/17 00:00,12/12/99 00:00
+196,Promo - Select Family Friendly - 6mo w/3mo Free - (Half-Off) - 1X,6.995,Discount,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+197,Promo - Travel-Link - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+198,All Access - 1mo - wETF (6mo50) - AMZ|Promo $11 off for 12mos AA - AMZ DOT-G3 - (WEB),9.99,Discount,All Access,Monthly,All Access - 1mo - wETF (6mo50) - AMZ|Promo $11 off for 12mos AA - AMZ DOT-G3 - (WEB),N,01/10/19 00:00,12/12/99 00:00
+199,Promo - Premier Family Friendly - 12mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+200,All Access - 1mo - wActv|Promo $8.25/mo AA for 12mos,8.25,Discount,All Access,Monthly,$8.25 All Access Monthly,N,01/11/19 00:00,12/12/99 00:00
+201,Courtesy - Introductory - Select - 12mo w/1mo Savings - 1X,14.99,Full Price,Select,Three Year,Select Annual,Y,01/01/14 00:00,26/04/16 00:00
+202,Promo - NavWeather - 12mo - 47.88,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+203,All Access - 1mo - wActv|Promo $9 Off for 6mosAA,11.99,Discount,All Access,Monthly,All Access Discount Monthly ($9 off for 6mos),N,01/06/19 00:00,12/12/99 00:00
+204,Select - 1mo - wActv|Promo $10 Off for 12mos,5.99,Discount,Select,Monthly,Select Discount Monthly ($10 Off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+205,Courtesy - Introductory - Select Family Friendly - 12mo w/1mo Savings - 1X,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,26/04/16 00:00
+206,Promo - NavTraffic - 12mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+207,Promo - All Access - 12mo - 179.88,14.99,Full Price,All Access,Annual,All Access Annual,Y,01/10/18 00:00,12/12/99 00:00
+208,All Access - 1mo - wActv|Promo $12.74 Off for 12mosAA,8.25,Discount,All Access,Monthly,$8.25 All Access Monthly,N,01/09/19 00:00,12/12/99 00:00
+209,Promo - All Access - 12mo - 119.88 - wETF (12mo100) - AMZ SPOT - (WEB),9.99,Discount,All Access,Annual,All Access Discount Annual AMZ DOT,Y,01/11/18 00:00,12/12/99 00:00
+210,Promo - Select - 6mo - 24.99 (6for25) - WBFB,4.165,Discount,Select,Semi Annual,6 for 25,N,05/01/15 00:00,30/06/15 00:00
+211,All Access - 3mo - wActv|Veteran 25% OffA2,15.74,Discount,All Access,Quarterly,All Access Quarterly - 25% Off,N,01/01/19 00:00,30/07/19 00:00
+212,Promo - Select - Annual - (25% off for 12 mos),11.99,Full Price,Select,Annual,Select Annual - 25% off,Y,14/02/18 00:00,12/12/99 00:00
+213,Promo - Traffic + Travel-Link - 4mo (4FOR20) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+214,Commercial Family - 1mo - (DSTR) - w/Actv,6.66,TBD,TBD,Monthly,Other,N,05/01/15 00:00,30/06/15 00:00
+215,Promo - Select - 6mo - 40.00,6.666666667,Discount,Select,Semi Annual,6 for 40,N,01/06/19 00:00,12/12/99 00:00
+216,Traffic - 24mo w/3mo Free,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+217,Introductory - Marine Offshore - 12mo w/1mo Savings - wActv,6.66,Full Price,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+218,Promo - NavTraffic - 5mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+219,Select - 24mo - wActv,14.99,Full Price,Select,Two Year,Other,Y,05/01/15 00:00,30/06/15 00:00
+220,Basic Plus - Special Pricing - 1mo - wETF,8.49,Full Price,Basic,Monthly,Basic Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+221,Promo - Select - 5mo - 24.99SelfPay,4.998,Discount,Select,5 Months,5 for 25,N,05/01/15 00:00,30/06/15 00:00
+222,Fixed Demo - Select - 3mo - (Used Car),0.0,TBD,Select,Quarterly,Select Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+223,Promo - Select - 6mo - 29.94 - (4.99FOR6) - (OAC) - 1X,5.0,Discount,Select,Semi Annual,6 for 30,N,05/01/15 00:00,30/06/15 00:00
+224,Sponsored - OEM Trial - All Access - 12mo - 83.50,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+225,Promo - Select - 12mo - 105.00 - (+$.50 per month),8.75,Discount,Select,Annual,Half off/year,Y,01/07/17 00:00,12/12/99 00:00
+226,Fleet - Select Family Friendly - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+227,All Access - 1mo - wETF (6mo50) - AMZ|Promo $12.66 Off for 6mosAA - AMZ DOT - G3 - (WEB),8.33,Discount,All Access,Monthly,All Access Discount Monthly AMZ DOT,N,01/10/19 00:00,12/12/99 00:00
+228,Courtesy - Select - 24mo w/3mo Savings - 1X,13.116249999999999,Discount,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+229,Sponsored - OEM Trial - All Access - 12mo - 136.98,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+230,Courtesy - Mostly Music - 12mo - 1X,9.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,05/01/15 00:00,30/06/15 00:00
+231,Long Term Plan - Select - 3 yrs,2.75,Discount,Select,Three Year,Select Discount 3 year,Y,01/12/17 00:00,12/12/99 00:00
+232,Promo - Premier - 6mo w/2mo Free (3FOR1) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+233,Sponsored - OEM Trial - All Access - 12mo - 109.51,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+234,Select - 3mo - wHW Actv - wETF,14.99,Full Price,Select,Quarterly,Select Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+235,Promo - Select Family Friendly - 12mo w/6mo Free (Half-Off),6.995,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+236,Premier - Life - 799.00,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+237,Promo - NavTraffic - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+238,All Access - 1mo - wActv|Promo 50% Off for 12mos,10.49,Discount,All Access,Monthly,All Access Discount Monthly,N,01/01/19 00:00,12/12/99 00:00
+239,A La Carte + Howard + Sports - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+240,Promo - Select - 12mo - 99.00 - (OLPT) - 1X,8.25,Discount,Select,Annual,1 yr/$99,Y,01/10/16 00:00,12/12/99 00:00
+241,Promo - Select - 36mo w/5mo Free (Legacy Pricing) - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+242,Fleet - All Access - 1mo - wActv - 13.49,13.49,Discount,All Access,Monthly,All Access Discount Monthly,N,01/04/18 00:00,12/12/99 00:00
+243,Promo - Select - 6mo - 24.99 (6for25) - Semi-Annual Rollover,4.1667000000000005,Discount,Select,Semi Annual,6 for 25,N,05/01/15 00:00,30/06/15 00:00
+244,Mostly Music - 1mo,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+245,Promo - NavTraffic + NavWeather - 12mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+246,All Access - 1mo - wActv|Promo $8 Off for 6mosAA,12.99,Discount,All Access,Monthly,All Access Discount Monthly ($8 off for 6mos),N,01/06/19 00:00,12/12/99 00:00
+247,Promo - Select - 12mo - 95.00,7.916666667,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+248,Promo - Select Lite - 5mo - 24.99 - (5FOR25),5.0,Discount,Select Lite,Quarterly,Promo - Select Lite - 5mo - 24.99 - (5FOR25),N,01/10/19 00:00,12/12/99 00:00
+372,Promo - All Access - 6mo (49.99) - (PC) - 1X,8.33,Discount,All Access,Semi Annual,6 for 50,N,01/11/16 00:00,30/04/17 00:00
+373,Courtesy - Introductory - Select - 24mo w/2mo Savings (Legacy MRF),15.99,Full Price,Select,Two Year,Select 2 year,Y,14/02/18 00:00,12/12/99 00:00
+374,Promo - Select - 6mo - 29.94 - (4.99FOR6) - Semi-Annual Rollover,5.0,Discount,Select,Semi Annual,6 for 30,N,05/01/15 00:00,30/06/15 00:00
+375,Promo - All Access - Annual - (40% off for 12 mos),12.59,Discount,All Access,Annual,All Access Discount Annual,Y,01/01/19 00:00,12/12/99 00:00
+376,NavTraffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+377,Select - 12mo w/1mo Free,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+378,Promo - Select - Monthly - (50% off/mo for 12 mos),7.99,Discount,Select,Monthly,Select Discount Monthly,N,01/11/17 00:00,12/12/99 00:00
+379,Promo - All Access - 3mo - $0.00 - GOOGLE (RTP) - (OLPT),0.0,Discount,All Access,Quarterly,Promo - All Access - 3mo - $0.00 - GOOGLE (RTP) - (OLPT),N,01/10/19 00:00,12/12/99 00:00
+380,All Access - 12mo - wHW Actv - wETF,20.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/19 00:00,12/12/99 00:00
+381,Traffic - 24mo - wActv,0.0,Data,Other,Two Year,Data,Y,01/01/14 00:00,12/12/99 00:00
+382,Promo - Select Plus SXIR - 12mo - 99.00 - 1X,8.25,Discount,Select,Annual,1 yr/$99,Y,01/12/16 00:00,12/12/99 00:00
+383,Select - 12mo - wActv|Promo Annual 45% Off,8.790000000000001,Discount,Select,Annual,Select Discount Annual,Y,01/01/19 00:00,12/12/99 00:00
+384,Promo - Select - 1mo - ($7 Off for 6 mos),8.99,Discount,Select,Monthly,Select Discount Monthly ($7 Off for 6mos),N,01/10/18 00:00,12/12/99 00:00
+385,Promo - All Access - 6mo - 49.99 - wETF (6mo50) - AMZ DOT-G3 - (WEB),8.33,Discount,All Access,Semi Annual,All Access Discount Semi AMZ DOT,N,01/10/18 00:00,12/12/99 00:00
+386,Promo - Premier - 12mo w/6mo Free (Half-Off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+387,Promo - All Access - 12mo - 119.88 (9.99/mo) - (OAC),9.99,Discount,All Access,Annual,All Access Discount Annual,Y,01/01/17 00:00,12/12/99 00:00
+388,Marine Inland - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+389,Premier - 1mo - TaxEx - (NO MRF) - 14.00,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+390,Sponsored - OEM Trial - Select - 3mo - 25.90,0.0,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+391,Promo - Sailor - 6mo - (Half-off) - 1X,0.0,Data,Data,Semi Annual,Data,N,01/04/18 00:00,12/12/99 00:00
+392,Promo - Select - 24mo w/4mo Free - No MRD (Legacy Pricing),12.49166667,Discount,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+393,Promo - Veteran - Select - 6mo,11.99,Full Price,Select,Semi Annual,Select Semi,N,01/11/17 00:00,12/12/99 00:00
+394,All Access - 36mo w/5mo Free - wActv,18.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+395,Traffic - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+396,Promo - Veteran - Mostly Music - 12mo,10.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,01/11/17 00:00,12/12/99 00:00
+397,Select - 1mo - TaxEx - (NO MRF) - 12.00,14.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+398,Premier - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+399,Promo - NavTraffic - 5mo - 10.00 (5FOR10),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+400,Fleet - All Access - 12mo - wActv - 173.88,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/07/17 00:00,30/11/17 00:00
+401,Fleet - Select - 12mo - wActv - 125.88,10.49,Discount,Select,Annual,Select Discount Annual,Y,01/04/18 00:00,12/12/99 00:00
+402,Introductory - Mirge - SiriusXM Family Friendly All-In-One - 12mo w/1mo Savings - wActv,0.0,Full Price,Other,Annual,Other,Y,01/01/17 00:00,12/12/99 00:00
+403,Mostly Music Monthly 2,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,05/01/15 00:00,30/06/15 00:00
+404,Promo - Select - 1mo - 0.99,0.99,Discount,Select,Monthly,1 Month/$.99,N,05/01/15 00:00,30/06/15 00:00
+405,All Access - 1mo - wActv|Promo $6 Off for 12mosAA,14.99,Discount,All Access,Monthly,All Access Discount Monthly ($6 off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+406,Promo - Select - 24mo - 198.00,8.25,Discount,Select,Two Year,1 yr/$99,Y,01/01/14 00:00,12/12/99 00:00
+407,NavTraffic - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+408,Promo - Traffic - 6mo w/1mo Free (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+409,Travel-Link - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+410,Introductory - All Access Family Friendly - 12mo w/2mo Savings,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,30/11/17 00:00
+411,Voyager + All Access - 1mo - wActv,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,05/01/15 00:00,30/06/15 00:00
+412,Select - 1mo - wETF (6mo50) - AMZ|Promo $8 off for 12mos - AMZ DOT-G3 - (WEB),7.99,Discount,Select,Monthly,Select - 1mo - wETF (6mo50) - AMZ|Promo $8 off for 12mos - AMZ DOT-G3 - (WEB),N,01/10/19 00:00,12/12/99 00:00
+413,Courtesy - All Access - 24mo - 2017,19.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/12/17 00:00,30/11/17 00:00
+414,Promo - All Access - 12mo - 126.00 - (+$.50 per month),10.5,Discount,All Access,Annual,All Access Discount Annual,Y,01/05/17 00:00,12/12/99 00:00
+415,Promo - All Access - Monthly - (30% off/mo for 12 mos),14.0,Discount,All Access,Monthly,All Access Discount Monthly,N,01/11/17 00:00,12/12/99 00:00
+416,Courtesy - Select - 6mo (Legacy MRF),15.99,Full Price,Select,Semi Annual,Select Semi,N,14/02/18 00:00,12/12/99 00:00
+417,Select - 1mo - wActv|Veteran 25% Off,11.99,Discount,Select,Monthly,Select Monthly - 25% Off,N,01/01/19 00:00,30/07/19 00:00
+418,Promo - Traffic - 5mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+419,Annual Service - 3 Yr Term Billed Every 3 Years,14.99,Full Price,Select,Two Year,Other,Y,05/01/15 00:00,30/06/15 00:00
+420,Fleet - All Access Family Friendly - 1mo - wActv - 13.99,13.99,Full Price,All Access,Monthly,All Access Monthly,N,01/10/18 00:00,12/12/99 00:00
+421,Courtesy - Introductory - All Access - 36mo w/3mo Savings (Legacy MRF),20.990000000000002,Full Price,All Access,Three Year,All Access 3 year,Y,14/02/18 00:00,12/12/99 00:00
+422,All Access Family Friendly - 12mo - wActv,17.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+423,Courtesy - Introductory - All Access - 24mo w/2mo Savings (Legacy MRF),20.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,14/02/18 00:00,12/12/99 00:00
+424,Promo - Select Family Friendly - 6mo w/3mo Free - (Half-Off),6.995,Discount,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+425,Promo - Select - Monthly - (30% off/mo for 12 mos),10.493,Discount,Select,Annual,Select Discount Monthly,N,01/07/18 00:00,12/12/99 00:00
+426,Introductory - Select Family Friendly - 12mo w/1mo Savings - wActv,13.49,Full Price,Select,Annual,Other,Y,05/01/15 00:00,30/06/15 00:00
+427,Promo - Select - 6mo - 42.00 - ($7.00/mo),7.0,Discount,Select,Semi Annual,6 for 42,N,01/10/18 00:00,12/12/99 00:00
+428,Sponsored - OEM Trial - Select - 12mo - 116.55,0.0,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+429,Promo - Select Family Friendly - 12mo w/3mo Free (3FOR1) - 1X,10.4925,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+430,Mostly Music - 36mo,9.99,Full Price,Mostly Music,Three Year,Mostly Music Three Year,Y,05/01/15 00:00,30/06/15 00:00
+431,Promo - All Access - 12mo - Select Price,14.99,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+432,Fleet - All Access - 1mo - wActv,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+433,Mostly Music - 1mo - wActv|Veteran 25% Off,8.24,Discount,Mostly Music,Monthly,Mostly Music Discount Monthly,N,01/01/19 00:00,30/07/19 00:00
+434,Introductory - All Access Family Friendly - 24mo w/2mo Savings - wActv,17.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+435,Promo - Traffic - 4mo for 19.95 (4FOR20) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+436,Promo - Select - 12mo w/1mo Free (Legacy Pricing) - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+437,Traffic - 12mo w/1mo Free,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+438,Select - 12mo - wActv|Veteran 25% Off,11.99,Discount,Select,Annual,Select Annual - 25% Off,Y,01/01/19 00:00,30/07/19 00:00
+439,Sirius XM ALL ACCESS - 12mo - wActv,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+440,Fleet - All Access - 1mo - wActv - 12.49,12.49,Full Price,All Access,Monthly,All Access Monthly,N,01/09/16 00:00,30/06/17 00:00
+441,Promo - All Access Upgrade for Select Price - 6mo,14.99,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/11/17 00:00,12/12/99 00:00
+442,Sponsored - OEM Trial - All Access - 6mo - 72.45,0.0,Full Price,All Access,Semi Annual,All Access Semi,N,05/01/15 00:00,30/06/15 00:00
+443,Mostly Music - 12mo,9.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,05/01/15 00:00,30/06/15 00:00
+444,Promo - Select - Annual - (40% off for 12 mos),9.59,Discount,Select,Annual,Select Discount Annual,Y,01/10/18 00:00,12/12/99 00:00
+445,Select - Life - 699.00 - wActv,6.66,TBD,Select,Lifetime,Select Lifetime,Y,05/01/15 00:00,30/06/15 00:00
+446,Promo - Select - 6mo - 29.94 - (4.99FOR6) - (PC) - 1X,4.99,Discount,Select,Semi Annual,6 for 30,N,01/12/16 00:00,12/12/99 00:00
+447,Promo - All Access - 12mo - 99.00 - (OAC),8.25,Discount,All Access,Annual,All Access Discount Annual $99,Y,01/03/18 00:00,12/12/99 00:00
+448,Long Term Plan - Select - 5 yrs (WBOVCORP),2.483333333,Discount,Select,Five Year,Select Discount 5 year,Y,01/12/17 00:00,12/12/99 00:00
+449,Travel-Link + Traffic Plus - 1mo - wActv,0.0,Data,Data,Monthly,Data,N,01/04/18 00:00,12/12/99 00:00
+450,Courtesy - All Access Family Friendly - 3mo - 1X,18.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/01/14 00:00,30/11/17 00:00
+451,Courtesy - News-Sports-Talk - 6mo - 1X,9.99,Full Price,Other,Semi Annual,Other,TBD,05/01/15 00:00,30/06/15 00:00
+452,Traffic - 36mo w/5mo Free,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+453,Marine Inland - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+454,Select - 1mo - wActv|Promo 25% Off for 12mos,11.99,Discount,Select,Monthly,Select Monthly - 25% off,N,01/06/19 00:00,12/12/99 00:00
+455,Promo - Select - 5mo - 24.99,4.998,Discount,Select,Quarterly,Select Discount Quarterly,N,01/10/17 00:00,12/12/99 00:00
+456,Promo - Select - 1mo - ($8 Off for 12mos),7.99,Discount,Select,Monthly,Select Discount Monthly ($8 Off for 12mos),N,01/07/17 00:00,12/12/99 00:00
+457,All Access - 1mo - wActv|Promo $8 Off for 12mosAA,12.99,Discount,All Access,Monthly,All Access Discount Monthly ($8 off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+458,Introductory - All Access - 24mo w/2mo Savings - wActv,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+459,Promo - Select - 6mo - 24.99SelfPay,4.165,Discount,Select,Semi Annual,6 for 25,N,05/01/15 00:00,30/06/15 00:00
+460,All Access Family Friendly - 3mo - wActv,17.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+461,Annual Service - 1 Yr Term Billed Annually,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+462,Introductory - Travel-Link + Traffic - 24mo w/2mo Savings - wActv,0.0,Data,Other,Two Year,Data,Y,01/01/14 00:00,12/12/99 00:00
+463,Promo - Select - 5mo - 19.99 - (5for20),4.0,Discount,Select,5 Months,5 for 20,N,05/01/15 00:00,30/06/15 00:00
+464,Promo - Select Plus SXIR - 5mo - 24.99 - (5FOR25) - (OAC) - 1X,5.0,Discount,Select,Quarterly,5 for 25,N,01/11/17 00:00,12/12/99 00:00
+465,Courtesy - All Access Family Friendly - 6mo - 1X,19.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,01/01/14 00:00,30/11/17 00:00
+466,Promo - Veteran - All Access - 3mo,14.99,Full Price,All Access,Quarterly,All Access Quarterly,N,01/12/17 00:00,12/12/99 00:00
+467,Select - 1mo,14.99,Full Price,Select,Monthly,Select Monthly,N,05/01/15 00:00,30/06/15 00:00
+468,Fisherman - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+469,Mirge - SiriusXM All-In-One - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+470,Promo - NavTraffic + NavWeather - 6mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+471,Mostly Music - 6mo,9.99,Full Price,Mostly Music,Semi Annual,Mostly Music Semi,TBD,05/01/15 00:00,30/06/15 00:00
+472,Introductory - Travel-Link + Traffic Plus - 12mo w/1mo Savings - wActv,0.0,Data,Data,Annual,Data,Y,01/04/18 00:00,12/12/99 00:00
+473,Promo - Select - 3mo (Legacy Pricing) - wActv,13.99,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+474,Courtesy - Select - 12mo w/1mo Savings - 1X,13.49,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+475,Courtesy - Select - 6mo - 1X,14.99,Full Price,Select,Semi Annual,Select Semi,N,01/01/14 00:00,26/04/16 00:00
+476,All Access - 6mo - wActv|Veteran 25% OffA3,15.74,Discount,All Access,Semi Annual,All Access Semi - 25% Off,N,01/01/19 00:00,30/07/19 00:00
+477,Traffic - 36mo - wActv,0.0,Data,Other,Three Year,Data,Y,01/01/14 00:00,12/12/99 00:00
+478,Promo - Select - 6mo w/3mo Free (Half-Off),7.495,Discount,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+479,All Access - 1mo - wActv|Promo $9.99/mo AA for 12mos,9.99,Discount,All Access,Monthly,All Access Discount Monthly ($10 off for 12mos),N,01/11/19 00:00,12/12/99 00:00
+480,Marine Coastal - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+481,Mostly Music - 24mo,9.99,Full Price,Mostly Music,Two Year,Mostly Music Three Year,Y,05/01/15 00:00,30/06/15 00:00
+482,Promo - Select - 1mo - ($6 Off for 12mos),9.99,Discount,Select,Monthly,Select Discount Monthly ($6 Off for 12mos),N,01/07/17 00:00,12/12/99 00:00
+483,Promo - NavWeather - 4mo - 19.95 (4FOR20) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+484,Select - 1mo - wActv|Promo $9.99/mo Select for 12mos,9.99,Discount,Select,Monthly,Select - 1mo - wActv|Promo $9.99/mo Select for 12mos,N,01/11/19 00:00,12/12/99 00:00
+485,Fleet - Select - 12mo - wActv - 107.88,8.99,Full Price,Select,Annual,Select Annual,Y,01/11/16 00:00,12/12/99 00:00
+486,Select Family Friendly - 3mo - wActv,14.99,Full Price,Select,Quarterly,Select Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+487,OEM Trial - Select - 2mo - 0.00 - (Used Car),0.0,Full Price,Select,2 Months,Other,N,05/01/15 00:00,30/06/15 00:00
+488,Premier Family Friendly - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+489,Promo - Select - 1mo - (NO MRF) - 0.99,0.99,Discount,Select,Monthly,1 Month/$.99,N,05/01/15 00:00,30/06/15 00:00
+490,Long Term Plan - Select - 5 yrs,2.48,Discount,Select,Five Year,Select Discount 5 year,Y,01/12/17 00:00,12/12/99 00:00
+491,All Access - 1mo - wActv|Promo $10 Off for 12mosAA,10.99,Discount,All Access,Monthly,All Access Discount Monthly ($10 off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+492,Charter - 1mo - wActv,14.99,Full Price,Select,Monthly,Other,N,05/01/15 00:00,30/06/15 00:00
+493,Travel-Link - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+494,Courtesy - All Access - 6mo - 1X,17.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,05/01/15 00:00,30/06/15 00:00
+495,Promo - Select - 1mo - ($7 Off for 12mos),8.99,Discount,Select,Monthly,Select Discount Monthly ($7 Off for 12mos),N,01/07/17 00:00,12/12/99 00:00
+697,Courtesy - Mostly Music - 12mo - 1X,9.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,01/01/14 00:00,04/01/15 00:00
+698,Promo - Premier - 6mo w/2mo Free (3FOR1) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+699,Sponsored - OEM Trial - All Access - 12mo - 109.51,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+700,Select - 3mo - wHW Actv - wETF,14.99,Full Price,Select,Quarterly,Select Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+701,Promo - Select Family Friendly - 12mo w/6mo Free (Half-Off),6.995,Discount,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+702,Premier - Life - 799.00,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+703,Promo - NavTraffic - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+704,A La Carte + Howard + Sports - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+705,Promo - All Access - 6mo (49.99) - (OLPT) - 1X,8.33,Discount,All Access,Semi Annual,6 for 50,N,01/11/16 00:00,30/04/17 00:00
+706,Promo - Select - 36mo w/5mo Free (Legacy Pricing) - wActv,14.49,Full Price,Select,Three Year,Select 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+707,Promo - News-Sports-Talk - 12mo w/2mo Free (3FOR1) - 1X,10.99,Full Price,Other,Annual,Other,Y,05/01/15 00:00,30/06/15 00:00
+708,Promo - Select - 6mo - 24.99 (6for25) - Semi-Annual Rollover,4.1667000000000005,Discount,Select,Semi Annual,6 for 25,N,01/01/14 00:00,04/01/15 00:00
+709,Mostly Music - 1mo,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+710,Promo - NavTraffic + NavWeather - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+711,Promo - Select - 12mo - 95.00,7.916666667,Discount,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+712,XM - Audio+Traffic - 1 Year service,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+713,Promo - Select - 6mo - 34.00 - (+$.67 per month),5.666666667,Discount,Select,Semi Annual,Select Discount Semi,N,01/07/17 00:00,12/12/99 00:00
+714,All Access - 1mo - wActv|Veteran 25% OffA1,15.74,Full Price,All Access,Monthly,All Access Monthly - 25% Off,N,31/07/19 00:00,12/12/99 00:00
+715,Fixed Demo - Select - 6mo - (Used Car),0.0,TBD,Select,Semi Annual,Select Semi,TBD,01/01/14 00:00,04/01/15 00:00
+716,NavTraffic + NavWeather - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+717,Marine Offshore - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+718,Introductory - Marine Coastal - 12mo w/1mo Savings - wActv,6.66,Full Price,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+719,Commercial Family - 1mo - (D2B) - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+720,Introductory - All Access - 12mo w/2mo Savings - wActv,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+721,Aviator LT - 12mo - wActv,6.66,Full Price,TBD,Annual,Other,Y,01/01/14 00:00,04/01/15 00:00
+722,Voyager + Select - 24mo w/3mo Free - wActv,14.99,Full Price,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+723,Select Family Friendly - 3mo,13.99,Full Price,Select,Quarterly,Select Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+724,Mostly Music - 3mo,10.99,Full Price,Mostly Music,Quarterly,Mostly Music Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+725,Select - 36mo w/5mo Free,14.99,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+726,Premier - Life - 799.00 - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+727,Courtesy - Traffic - 12mo w/1mo Savings - 1X,6.66,Full Price,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+728,Promo - Select - 12mo - 86.00 - (Half-Off),7.495,Discount,Select,Annual,Half off/year,Y,01/01/14 00:00,04/01/15 00:00
+729,Promo - Voyager + Select - 6mo - wActv,14.99,Full Price,Select,Semi Annual,Select Semi,TBD,01/01/14 00:00,04/01/15 00:00
+730,Premier Family Friendly - Life - 749.00 - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+731,Promo - NavTraffic + NavWeather - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+732,Marine Offshore - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+733,Travel-Link - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+734,Promo - All Access - 6mo (49.99) - 1X,8.3317,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/01/14 00:00,04/01/15 00:00
+735,Promo - Select - 12mo - 99.00 - SC,8.25,Discount,Select,Annual,1 yr/$99,Y,01/09/16 00:00,12/12/99 00:00
+736,Select - 1mo - wActv|Promo $9 Off for 12mos,6.99,Discount,Select,Monthly,Select Discount Monthly ($9 Off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+737,Promo - Premier - 12mo w/6mo Free (Half-Off) - 1X,7.5,Discount,Select,Annual,Half off/year,Y,01/01/14 00:00,04/01/15 00:00
+738,Promo - Select Family Friendly - 6mo w/2mo Free (3FOR1) - 1X,9.326666667,Discount,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+739,All Access - 1mo - wActv,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/01/14 00:00,04/01/15 00:00
+740,Promo - Traffic - 5mo - 10.00 (5FOR10),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+741,Espanol - 12mo,5.99,Full Price,Espanol,Annual,Espanol Annual,Y,01/01/14 00:00,04/01/15 00:00
+742,Promo - Select - 5mo - 29.99,5.998,Discount,Select,5 Months,5 for 30,N,01/02/13 00:00,31/12/13 00:00
+743,All Access - 1mo - wHW Actv - wETF,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/06/16 00:00,30/11/17 00:00
+744,News-Sports-Talk - 12mo,10.99,Full Price,Other,Annual,Other,Y,01/01/14 00:00,04/01/15 00:00
+745,Fixed Demo - Premier - 6mo - 0.00 - (Used Car),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+746,Mostly Music - 1mo - wActv,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,01/01/14 00:00,04/01/15 00:00
+747,Promo - Premier - 6mo w/3mo Free - (Half-Off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+748,Travel-Link - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+749,Introductory - Travel-Link + Traffic - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+750,A La Carte Gold - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+751,Fleet - All Access - 12mo - wActv - 143.88,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/07/17 00:00,30/11/17 00:00
+752,Promo - Select - 6mo - 29.94 - (4.99FOR6) - 1X,5.0,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,04/01/15 00:00
+753,Promo - Select - 5mo - 29.99 - (OAC) - 1X,6.0,Discount,Select,5 Months,5 for 30,N,01/01/17 00:00,12/12/99 00:00
+754,Introductory - Select - 24mo w/2mo Savings - wActv,14.99,Full Price,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+755,Promo - Select - 5mo - 29.99 - (5for30),6.0,Discount,Select,Quarterly,5 for 30,N,01/01/14 00:00,04/01/15 00:00
+756,Select - 1mo - wETF (6mo50) - AMZ|Promo $8 off for 6mos - AMZ DOT-G3,7.99,Discount,Select,Monthly,Select - 1mo - wETF (6mo50) - AMZ|Promo $8 off for 6mos - AMZ DOT-G3,N,01/10/19 00:00,12/12/99 00:00
+757,Promo - All Access - Annual - (50% off for 12 mos),9.99,Discount,All Access,Annual,All Access Discount Annual,Y,01/11/17 00:00,12/12/99 00:00
+758,Mostly Music - 12moSelfPay,9.99,Full Price,Mostly Music,Annual,Mostly Music annual,Y,05/01/15 00:00,30/06/15 00:00
+759,Promo - NavTraffic - 6mo w/1mo Free (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+760,Promo - Select - 6mo - 29.94,4.99,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,04/01/15 00:00
+761,Promo - Premier - 12mo - Free Premier,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+762,All Access Family Friendly - 24mo - wActv,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+763,Courtesy - Select Family Friendly - 36mo w/5mo Savings - 1X,13.49,Full Price,Select,Three Year,Select 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+764,Promo - Veteran - All Access - 12mo,14.99,Full Price,All Access,Annual,All Access Annual,Y,01/07/17 00:00,30/11/17 00:00
+765,Promo - Mostly Music - 12mo w/2mo Free (3FOR1) - 1X,8.325000000000001,Discount,Mostly Music,Annual,Mostly Music Annual,Y,01/01/14 00:00,04/01/15 00:00
+766,Voyager + All Access Family Friendly - 1mo - wActv,20.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/12/17 00:00,12/12/99 00:00
+767,Promo - All Access - 6mo - 49.99 - wETF,8.33,Discount,All Access,Semi Annual,All Access Discount Semi,N,01/10/18 00:00,12/12/99 00:00
+768,Promo - Premier Family Friendly - 12mo w/6mo Free (Half-Off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+769,Introductory - All Access - 12mo w/2mo Savings - wHW Actv - wETF,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+770,Select - 1mo - wActv,14.99,Full Price,Select,Monthly,Select Monthly,N,01/01/14 00:00,04/01/15 00:00
+771,Introductory - Select - 36mo w/3mo Savings,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+772,Mostly Music - 3mo - wActv,9.99,Full Price,Mostly Music,Quarterly,Mostly Music Quarterly,N,01/01/14 00:00,04/01/15 00:00
+773,Select - 12mo - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+774,NavTraffic + NavWeather - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+775,All Access - 12mo - wETF (6mo50) - AMZ DOT-G3,20.990000000000002,Full Price,All Access,Annual,All Access Annual AMZ DOT,Y,01/01/19 00:00,12/12/99 00:00
+776,Select Family Friendly - 1mo - wActv,13.99,Full Price,Select,Monthly,Select Monthly,N,01/01/14 00:00,04/01/15 00:00
+777,Video - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+778,Courtesy - Select - 1mo - 1X,14.99,Full Price,Select,Monthly,Select Monthly,N,27/04/16 00:00,12/12/99 00:00
+779,Promo - News-Sports-Talk - 6mo w/2mo Free (3FOR1) - 1X,6.66,Discount,Other,Semi Annual,Other,N,01/01/14 00:00,04/01/15 00:00
+780,Promo - Premier - 3mo w/2mo Free (3FOR1) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+781,Select - 1mo - wActv|Promo $8 Off for 6mos,7.99,Discount,Select,Monthly,Select Discount Monthly ($8 Off for 6mos),N,01/01/19 00:00,12/12/99 00:00
+782,Introductory - Select - 12mo w/1mo Savings - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+783,Basic - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+784,Premier - 3mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+785,Courtesy - Mostly Music - 36mo - 1X,9.99,Full Price,Mostly Music,Three Year,Mostly Music Three Year,Y,01/01/14 00:00,04/01/15 00:00
+786,Voyager + All Access - 12mo w/1mo Free - wActv,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,30/11/17 00:00
+787,Basic Plus - Special Pricing - 12mo,8.49,Full Price,Basic,Annual,Basic Annual,Y,01/01/14 00:00,04/01/15 00:00
+788,Promo - Select - 3mo w/2mo Free (3FOR1) - 1X,5.0,Discount,Select,Quarterly,3 for 1,N,01/01/14 00:00,04/01/15 00:00
+789,Select - 1moSelfPay,14.99,Full Price,Select,Monthly,Select Monthly,N,01/01/14 00:00,04/01/15 00:00
+790,Select Family Friendly - 24mo - wActv,15.99,Full Price,Select,Two Year,Select 2 Year,Y,01/06/16 00:00,12/12/99 00:00
+791,Select Lite - 1mo|Promo $5.99/mo Select for 12mos,5.99,Discount,Select Lite,Monthly,Select Lite - 1mo|Promo $5.99/mo Select for 12mos,N,01/11/19 00:00,12/12/99 00:00
+792,Sponsored - OEM Trial - Select - 3mo - 9.95 - (Used Car),0.0,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+793,Sponsored - OEM Trial - All Access - 12mo - 135.54,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+794,Voyager + All Access Family Friendly - 6mo - wActv,20.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,01/12/17 00:00,12/12/99 00:00
+795,Select Family Friendly - 24mo w/3mo Free - wActv,13.99,Full Price,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+796,Promo - Select - 12mo - 89.00 - (Half-Off) - 1X,7.5,Discount,Select,Annual,Half off/year,Y,05/01/15 00:00,30/06/15 00:00
+797,Select - 6moSelfPay,14.99,Full Price,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+798,Marine Coastal - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+799,Courtesy - All Access Family Friendly - 24mo - 1X,20.990000000000002,Full Price,All Access,Two Year,All Access Annual,Y,01/12/17 00:00,12/12/99 00:00
+800,Promo - Select - 5mo - 19.99SelfPay,3.998,Discount,Select,5 Months,5 for 20,N,01/01/14 00:00,04/01/15 00:00
+801,Courtesy - Introductory - Select - 12mo w/1mo Savings (Legacy MRF),15.99,Full Price,Select,Annual,Select Annual,Y,14/02/18 00:00,12/12/99 00:00
+802,Courtesy - Promo - All Access - 12mo - 119.88 (2018 MRF),9.99,Discount,All Access,Annual,All Access Discount Annual,Y,01/01/19 00:00,12/12/99 00:00
+803,Courtesy - All Access - 36mo - 1X,18.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+804,Long Term Plan - Select - 3 yrs (WBOVCORP),2.75,Discount,Select,Three Year,Select Discount 3 year,Y,01/12/17 00:00,12/12/99 00:00
+805,Lifetime Subscriber - 399.99,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+806,12 Month Service - 12 Month Term Billed Annually,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+807,Select - 12mo - wActv|Promo Annual 50% Off,8.0,Discount,Select,Annual,Select Discount Annual,Y,01/01/19 00:00,12/12/99 00:00
+808,All Access - 24mo w/3mo Free - wActv,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+809,News-Sports-Talk - 6mo - wActv,10.99,Full Price,Other,Semi Annual,Other,TBD,01/01/14 00:00,04/01/15 00:00
+810,Promo - All Access - 2mo - 2.00 - (Discovery) - 1X,5.0,Discount,All Access,Monthly,Discount Trial Extension,N,31/07/19 00:00,12/12/99 00:00
+811,Courtesy - Select - 24mo - 1X,14.99,Full Price,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,12/12/99 00:00
+812,Promo - Marine Inland - 2mo - (Half-off) - 1X,14.99,Discount,Other,Monthly,Other,N,01/01/17 00:00,12/12/99 00:00
+813,Promo - All Access - 6mo (49.99) - (PC) - 1X,8.33,Discount,All Access,Semi Annual,6 for 50,N,01/05/17 00:00,30/04/17 00:00
+814,Promo - Select - 6mo - 29.94 - (4.99FOR6) - Semi-Annual Rollover,5.0,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,04/01/15 00:00
+815,NavTraffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+816,Select - 12mo w/1mo Free,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+817,Promo - Premier - 6mo - 34.99 (6for35) - 1X,5.833333333,Discount,Select,Semi Annual,6 for 35,N,05/01/15 00:00,30/06/15 00:00
+818,Courtesy - Introductory - Select - 12mo w/1mo Savings (2018 MRF),15.99,Full Price,Select,Annual,Select Annual,Y,01/01/19 00:00,12/12/99 00:00
+819,Promo - Select - 36mo w/7mo Free,12.07527778,Discount,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+820,Promo - Select - 6mo - 24.99,4.17,Discount,Select,Semi Annual,6 for 25,N,05/01/15 00:00,30/06/15 00:00
+821,Promo - Select - 12mo - 95.00 (1X),7.916666667,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+822,Promo - Select - 12mo - 72.00 - ($6.00/mo),6.0,Discount,Select,Annual,12 for 72,Y,01/10/18 00:00,12/12/99 00:00
+823,Promo - Premier - 12mo w/6mo Free (Half-Off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+824,Marine Inland - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+825,Premier - 1mo - TaxEx - (NO MRF) - 14.00,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+826,Sponsored - OEM Trial - Select - 3mo - 25.90,0.0,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+827,Basic Plus - Special Pricing - 12mo - wETF,8.49,Full Price,Basic,Annual,Basic Annual,Y,05/01/15 00:00,30/06/15 00:00
+496,Promo - Travel-Link - 3mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+497,Promo - Select - 1mo - ($11 Off for 12mos),4.99,Discount,Select,Monthly,$4.99 Monthly,N,08/11/17 00:00,12/12/99 00:00
+498,Sponsored - OEM Trial - Select - 3mo - 19.43,0.0,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+499,Promo - Marine Coastal - 6mo - (33% Savings) - 1X,14.99,Discount,Other,Semi Annual,Other,N,01/07/17 00:00,12/12/99 00:00
+500,Promo - Select - Annual - (30% off for 12 mos),10.493,Discount,Select,Annual,Select Discount Annual,Y,01/07/18 00:00,12/12/99 00:00
+501,Commercial Family - 12mo w/1mo Free - (D2B) - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+502,Promo - Premier Family Friendly - 6mo w/3mo Free - (Half-Off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+503,Mostly Music - 1mo - Pandora (Webform),5.0,Discount,Mostly Music,Monthly,Mostly Music Discount Monthly,N,01/02/19 00:00,12/12/99 00:00
+504,Introductory - Select - 12mo w/1mo Savings - wHW Actv - wETF,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+505,Promo - Premier Family Friendly - 12mo w/3mo Free (3FOR1) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+506,Promo - Mostly Music - 36mo,9.99,Full Price,Mostly Music,Three Year,Mostly Music Three Year,Y,05/01/15 00:00,30/06/15 00:00
+507,Select Family Friendly - 3mo - wHW Actv - wETF,13.99,Full Price,Select,Quarterly,Select Quarterly,TBD,05/01/15 00:00,30/06/15 00:00
+508,3 months free service w/ Monthly Service (OEM),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+509,Select Family Friendly - 36mo - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/01/14 00:00,26/04/16 00:00
+510,Travel-Link - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+511,Promo - All Access - Annual - (35% off for 12 mos),13.64,Full Price,All Access,Annual,All Access Discount Annual,Y,01/10/18 00:00,12/12/99 00:00
+512,NavWeather - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+513,Select - 1mo - wActv|Promo $7 Off for 6mos,8.99,Discount,Select,Monthly,Select Discount Monthly ($7 Off for 6mos),N,01/01/19 00:00,12/12/99 00:00
+514,All Access - 3mo - wActv,18.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/01/14 00:00,04/01/15 00:00
+515,Promo - Select - 5mo - 19.99 - (5for20) - 1X,4.0,Discount,Select,5 Months,5 for 20,N,05/01/15 00:00,30/06/15 00:00
+516,Premier - 1mo,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+517,Fleet - All Access - 1mo - wActv - 11.99,11.99,Full Price,All Access,Monthly,All Access Monthly,N,01/11/16 00:00,30/06/17 00:00
+518,Select Family Friendly - 1mo,13.99,Full Price,Select,Monthly,Select Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+519,Travel-Link - 12mo w/1mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+520,Introductory - NavTraffic + NavWeather - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+521,Sirius XM ALL ACCESS - 1mo - wActv,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,05/01/15 00:00,30/06/15 00:00
+522,Select Family Friendly Add-on - 1mo,13.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+523,Premier Family Friendly - 12mo w/1mo Free - wActv,6.66,Full Price,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+524,Courtesy - Promo - Select - 6mo - 29.94 (2018 MRF),4.99,Discount,Select,Annual,6 for 30,N,01/01/19 00:00,12/12/99 00:00
+525,Courtesy - Select Family Friendly - 1mo - 1X,14.99,Full Price,Select,Monthly,Select Monthly,N,01/01/14 00:00,26/04/16 00:00
+526,Courtesy - Select Family Friendly - 12mo w/1mo Savings - 1X,13.49,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+527,2005 Promotion - 3 Year Plan - 359.64 w/MRF GRACE,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+528,Select - 24mo w/3mo Free,13.116249999999999,Discount,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+529,Promo - Select - 5mo - No MRD,6.66,Discount,Select,5 Months,Other,N,01/01/14 00:00,04/01/15 00:00
+530,Fleet - Select - 1mo - wActv,14.99,Full Price,Select,Monthly,Select Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+531,Select - 36mo - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+532,Select - 3moSelfPay,14.99,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+533,Promo - Mostly Music - 12mo - 60.00 - ($5.00/mo),5.0,Discount,Mostly Music,Annual,Mostly Music Discount Annual,Y,01/10/18 00:00,12/12/99 00:00
+534,All Access - 1mo - wETF (6mo50) - AMZ|Promo $8.25/mo AA for 12mos - AMZ DOT - G3 - (WEB),8.25,Discount,All Access,Monthly,$8.25 All Access Monthly,N,01/11/19 00:00,12/12/99 00:00
+535,Select - 12mo w/1mo Free - wHW Actv - wETF,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+536,Promo - Select - 24mo w/5mo Free,14.99,Full Price,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+537,Travel-Link + Traffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+538,Sponsored - OEM Trial - All Access - 4mo - 51.80,0.0,Full Price,All Access,4 Months,Other,N,05/01/15 00:00,30/06/15 00:00
+539,Promo - Select - 1mo - (NO MRF) - 0.99 (Web),0.99,Discount,Select,Monthly,1 Month/$.99,TBD,01/01/14 00:00,04/01/15 00:00
+540,Promo - Voyager + Select - 6mo - (33% Savings) - 1X,14.99,Discount,Select,Semi Annual,Select Discount Semi,N,01/11/17 00:00,12/12/99 00:00
+541,3 Year Promotion,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+542,All Access - 1mo - wETF (6mo50) - AMZ DOT-G3 - (OAC),20.990000000000002,Full Price,All Access,Monthly,All Access Monthly AMZ DOT,N,01/11/18 00:00,12/12/99 00:00
+543,Promo - Select - 6mo - 24.99 (6for25),4.1667000000000005,Discount,Select,Semi Annual,6 for 25,N,01/01/14 00:00,04/01/15 00:00
+544,Courtesy - Mostly Music - 1mo - 1X,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,01/01/14 00:00,04/01/15 00:00
+545,Introductory - Marine Inland - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,Y,01/01/14 00:00,04/01/15 00:00
+546,News-Sports-Talk - 3mo,10.99,Full Price,Other,Quarterly,Other,TBD,01/01/14 00:00,04/01/15 00:00
+547,Promo - Select - 12mo - 89.00SelfPay,7.416666667,Discount,Select,Annual,Half off/year,Y,01/01/14 00:00,04/01/15 00:00
+548,Courtesy - All Access Family Friendly - 12mo - 2017,20.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/12/17 00:00,12/12/99 00:00
+549,Premier - 12mo w/1mo Free - wHW Actv - wETF,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+550,Quarterly Service,14.99,Full Price,Select,Quarterly,Other,N,01/01/14 00:00,04/01/15 00:00
+551,Premier - 3mo - wHW Actv - wETF,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+552,Introductory - All Access - 24mo w/2mo Savings,19.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+553,Introductory - All Access - 12mo w/2mo Savings,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+554,Promo - All Access - 24mo - Select Price,14.99,Full Price,All Access,Two Year,All Access 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+555,A La Carte Gold - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+556,Sirius XM ALL ACCESS - 1mo - wHW Actv - wETF,19.990000000000002,Full Price,All Access,Monthly,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+557,Travel-Link - 24mo w/3mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+558,Voyager + Select - 6mo - wActv,15.99,Full Price,Select,Semi Annual,Select Semi,N,27/04/16 00:00,12/12/99 00:00
+559,Sponsored - OEM Trial - ALL ACCESS - 12mo - 116.55,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+560,Traffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+561,OEM Trial - Select - 3mo - 0.00 - (Used Car),0.0,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+562,Marine Coastal - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+563,Promo - Travel-Link - 5mo (5for20/25/30) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+564,Promo - Travel-Link - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+565,Promo - Traffic - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+566,Travel-Link + Traffic - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+567,Promo - NavWeather - 6mo (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+568,Voyager + Select - 12mo w/1mo Free - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+569,Promo - Premier - 24mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+570,Select - 6mo,14.99,Full Price,Select,Semi Annual,Select Semi,TBD,01/01/14 00:00,04/01/15 00:00
+571,Basic Plus - 12mo,8.49,Full Price,Basic,Annual,Basic Annual,Y,05/01/15 00:00,30/06/15 00:00
+572,Lifetime Subscriber,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+573,Promo - Traffic - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+574,NavTraffic - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+575,Courtesy - News-Sports-Talk - 1mo - 1X,9.99,Full Price,Other,Monthly,Other,N,01/01/14 00:00,04/01/15 00:00
+576,Basic Plus - Special Pricing - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,N,01/01/14 00:00,04/01/15 00:00
+577,Commercial Standard - 12mo w/1mo Free - (NO MRF) - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+578,Promo - Veteran - Select - 1mo,11.99,Full Price,Select,Monthly,Select Monthly,N,01/06/16 00:00,30/06/17 00:00
+579,Annual Service,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+580,Sponsored - OEM Trial - All Access - 12mo - 118.98,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+581,Courtesy - Select - 3mo - 1X,14.99,Full Price,Select,Quarterly,Select Quarterly,N,27/04/16 00:00,12/12/99 00:00
+582,Basic Plus - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,N,01/01/14 00:00,04/01/15 00:00
+583,Courtesy - All Access - 3mo - 1X,18.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/01/14 00:00,04/01/15 00:00
+584,Promo - Select Family Friendly - 3mo w/2mo Free (3FOR1) - 1X,4.663333333,Discount,Select,Quarterly,3 for 1,N,05/01/15 00:00,30/06/15 00:00
+585,Promo - Select - 5mo - 29.00 - (+$.80 per month),5.6000000000000005,Discount,Select,Quarterly,Discount Select Quarterly,N,01/07/17 00:00,12/12/99 00:00
+586,Promo - All Access - 12mo - 119.88 (9.99/mo) - SC,9.99,Discount,All Access,Annual,All Access Discount Annual,Y,01/09/16 00:00,12/12/99 00:00
+587,Promo - All Access Upgrade for Select Price - 3mo - (OAC),15.99,Full Price,All Access,Quarterly,All Access Quarterly,N,01/10/18 00:00,12/12/99 00:00
+588,Sponsored - OEM Trial - Select - 6mo - 19.43,0.0,Full Price,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+589,Promo - Mostly Music - 12mo,10.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,01/01/14 00:00,04/01/15 00:00
+590,Espanol Plus - 12mo,8.49,Full Price,Espanol,Annual,Espanol Annual,Y,01/01/14 00:00,04/01/15 00:00
+591,Marine Inland - 3mo - wActv,14.99,Full Price,Select,TBD,Other,N,01/01/14 00:00,04/01/15 00:00
+592,Promo - Traffic + Travel-Link - 5mo - 20.00,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+593,All Access - 12mo - wActv|Veteran 25% Off,15.74,Full Price,All Access,Annual,All Access Monthly - 25% Off,Y,31/07/19 00:00,12/12/99 00:00
+594,Promo - Select - 6mo w/3mo Free - (Half-Off) - 1X,7.495,Discount,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+595,Marine Coastal - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+596,Courtesy - Traffic - 24mo w/3mo Savings - 1X,6.66,Full Price,Other,Two Year,Other,Y,01/01/14 00:00,04/01/15 00:00
+597,Promo - All Access - 6mo - 96.00 - wETF (6mo50) - AMZ DOT-G3,16.0,Discount,All Access,Semi Annual,Promo - All Access - 6mo - 96.00 - wETF (6mo50) - AMZ DOT-G3,N,01/10/19 00:00,12/12/99 00:00
+598,Sponsored - OEM Trial - All Access - 12mo - 117.00,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+599,Introductory - All Access Family Friendly - 36mo w/3mo Savings - wActv,18.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+600,Voyager + Select Family Friendly - 1mo - wActv,13.99,Full Price,Select,Monthly,Select Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+601,Introductory - Voyager + Select - 12mo w/1mo Savings - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+602,News-Sports-Talk - 1mo,10.99,Full Price,Other,Monthly,Other,TBD,01/01/14 00:00,04/01/15 00:00
+603,Commercial Family - 12mo w/1mo Free - (NO MRF) - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+604,Promo - All Access - 12mo - 119.88 - wETF,9.99,Discount,All Access,Annual,All Access Discount Annual,Y,01/10/18 00:00,12/12/99 00:00
+605,Introductory - Voyager + Select Family Friendly - 12mo w/1mo Savings - wActv,13.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+606,Sponsored - OEM Trial - All Access - 12mo - 126.00,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+607,Promo - Fleet - Select - 6mo - 29.94 - (4.99FOR6) - 1X,4.99,Discount,Select,Semi Annual,6 for 30,N,01/02/17 00:00,12/12/99 00:00
+608,Introductory - Voyager + All Access - 12mo w/1mo Savings - wActv,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+609,Promo - Select Family Friendly - 12mo w/6mo Free (Half-Off) - 1X,6.995,Discount,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+610,Promo - Select - 12mo - 66.00 - ($5.50/mo),5.5,Discount,Select,Annual,12 for 66,Y,01/10/18 00:00,12/12/99 00:00
+611,Promo - Veteran - All Access - 6mo,14.99,Full Price,All Access,Semi Annual,All Access Semi,N,01/12/17 00:00,12/12/99 00:00
+612,Premier - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+613,A La Carte + Howard - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+614,NavTraffic + NavWeather - 36mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+615,Promo - News-Sports-Talk - 3mo w/2mo Free (3FOR1) - 1X,3.33,Discount,Other,Quarterly,Other,N,01/01/14 00:00,04/01/15 00:00
+616,Premier - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+617,News-Sports-Talk - 3mo - wActv,10.99,Full Price,Other,Quarterly,Other,TBD,01/01/14 00:00,04/01/15 00:00
+618,Courtesy - All Access - 24mo - Select Price,20.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/12/17 00:00,12/12/99 00:00
+619,Fleet - All Access - 12mo - wActv - 167.88,20.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/12/17 00:00,12/12/99 00:00
+620,Promo - All Access - 3mo - 2.00 - (Discovery) - 1X,5.0,Discount,All Access,Quarterly,Discount Trial Extension,N,31/07/19 00:00,12/12/99 00:00
+621,Select - 3mo,14.99,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+622,Courtesy - Promo - All Access - 6mo - (49.99) (2018 MRF),8.33,Discount,All Access,Annual,6 for 50,N,01/01/19 00:00,12/12/99 00:00
+623,Espanol - 1mo,8.49,Full Price,Espanol,Monthly,Espanol Monthly,N,01/01/14 00:00,04/01/15 00:00
+624,Voyager + Select - 1mo - wActv,14.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+625,Select - 12mo w/1mo Free - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+626,Fleet - All Access Family Friendly - 1mo - wActv,17.990000000000002,Full Price,All Access,Monthly,All Access Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+627,Espanol Plus - 1mo,8.49,Full Price,Espanol,Monthly,Espanol Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+628,Promo - Select - 3mo w/2mo Free (3FOR1),4.996700000000001,Discount,Select,Quarterly,3 for 1,N,01/01/14 00:00,04/01/15 00:00
+629,Introductory - Travel-Link - 12mo w/1mo Savings - wActv,0.0,Data,Other,Annual,Data,Y,01/02/17 00:00,12/12/99 00:00
+630,Sirius XM ALL ACCESS - 3mo - wHW Actv - wETF,20.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/12/17 00:00,12/12/99 00:00
+631,Sponsored - OEM Trial - All Access - 3mo - 25.90,0.0,Full Price,All Access,Quarterly,All Access Quarterly,N,01/01/14 00:00,04/01/15 00:00
+632,Courtesy - News-Sports-Talk - 12mo - 1X,9.99,Full Price,Other,Annual,Other,Y,01/01/14 00:00,04/01/15 00:00
+633,All Access - 1mo - wActv|Promo $7 off for 12mos AA,13.99,Discount,All Access,Monthly,All Access - 1mo - wActv|Promo $7 off for 12mos AA,N,01/10/19 00:00,12/12/99 00:00
+634,Promo - Select - 6mo - 29.94 (4.99FOR6) - WBFB,5.0,Discount,Select,Semi Annual,6 for 30,N,05/01/15 00:00,30/06/15 00:00
+635,Courtesy - All Access - 24mo - 1X,17.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+636,Introductory - Traffic - 12mo w/1mo Savings - wActv,6.66,Full Price,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+637,NavTraffic - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+638,Sponsored - OEM Trial - All Access - 6mo - 64.75,0.0,Full Price,All Access,Semi Annual,All Access Semi,N,01/01/14 00:00,04/01/15 00:00
+639,Promo - Select - 12mo - 60.00 - wETF (6mo50) - AMZ DOT-G3 - (OLPT),5.0,Discount,Select,Annual,12 for 60 Select AMZ,Y,01/11/19 00:00,12/12/99 00:00
+640,Premier Family Friendly - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+641,OEM Trial - Premier - 1mo - 0.00,0.0,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+642,Sponsored - OEM Trial - Select - 6mo - 77.70,0.0,Full Price,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+643,Introductory - Select - 36mo w/3mo Savings - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+644,NavTraffic + NavWeather - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+645,Promo - Traffic - 3mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+646,NavWeather - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+647,Promo - NavTraffic + NavWeather - 12mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+648,Promo - NavTraffic - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+649,Promo - All Access - 1mo - ($8 off for 12mos),11.99,Discount,All Access,Monthly,All Access Discount Monthly ($8 off for 12mos),N,01/07/17 00:00,12/12/99 00:00
+650,Premier Add-on - 1mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+651,Courtesy - Introductory - Select - 24mo w/2mo Savings - 1X,14.99,Full Price,Select,Two Year,Select 2 Year,Y,27/04/16 00:00,12/12/99 00:00
+652,Fleet - All Access - 1mo - wActv - 14.49,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/07/17 00:00,30/11/17 00:00
+653,Promo - Select Family Friendly - 24mo,6.66,Discount,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+654,Courtesy - Select - 12mo - 1X,14.99,Full Price,Select,Annual,Select Annual,Y,27/04/16 00:00,12/12/99 00:00
+655,Promo - Select - 6mo - 29.94SelfPay,4.99,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,04/01/15 00:00
+656,NavWeather - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+657,DTC Activation,6.66,Full Price,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+658,Traffic - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+659,Promo - Travel-Link - 5mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+660,A La Carte - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+661,Introductory - Marine Offshore - 24mo w/2mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+662,Aviator - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+663,Traffic - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+664,Promo - Premier - 3mo - 29.97 (9.99offer) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+665,Promo $12.74 Off for 12mosAA,8.25,Discount,All Access,Monthly,$8.25 All Access Monthly,N,01/09/19 00:00,12/12/99 00:00
+666,Promo - NavTraffic - 6mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+667,Promo - Select Family Friendly - 6mo w/3mo Free - (Half-Off) - 1X,6.995,Discount,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+668,Promo - Travel-Link - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+669,Introductory - Select - 12mo w/1mo Savings,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+670,Promo - Premier Family Friendly - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+671,Courtesy - Introductory - Select - 12mo w/1mo Savings - 1X,14.99,Full Price,Select,Three Year,Select Annual,Y,27/04/16 00:00,12/12/99 00:00
+672,Promo - NavWeather - 12mo - 47.88,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+673,Introductory - Marine Coastal - 24mo w/2mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+674,Courtesy - Introductory - Select Family Friendly - 12mo w/1mo Savings - 1X,14.99,Full Price,Select,Annual,Select Annual,Y,27/04/16 00:00,12/12/99 00:00
+675,Promo - NavTraffic - 12mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+676,Promo - Traffic - 6mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+677,Promo - NavTraffic - 5mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+678,Promo - Select - 12mo - 60.00 - (OLPT) - 1X,5.0,Discount,Select,Annual,12 for 60,Y,01/11/17 00:00,12/12/99 00:00
+679,Promo - Select - 6mo - 24.99 (6for25) - WBFB,4.165,Discount,Select,Semi Annual,6 for 25,N,01/01/14 00:00,04/01/15 00:00
+680,All Access - 3mo - wActv|Veteran 25% OffA2,15.74,Full Price,All Access,Quarterly,All Access Quarterly - 25% Off,N,31/07/19 00:00,12/12/99 00:00
+681,Promo - Traffic + Travel-Link - 4mo (4FOR20) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+682,Commercial Family - 1mo - (DSTR) - w/Actv,6.66,TBD,TBD,Monthly,Other,N,01/01/14 00:00,04/01/15 00:00
+683,Traffic - 24mo w/3mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+684,Introductory - Marine Offshore - 12mo w/1mo Savings - wActv,6.66,Full Price,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+685,Promo - NavTraffic - 5mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+686,Select - 24mo - wActv,14.99,Full Price,Select,Two Year,Other,Y,01/01/14 00:00,04/01/15 00:00
+687,Basic Plus - Special Pricing - 1mo - wETF,8.49,Full Price,Basic,Monthly,Basic Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+688,Promo - Select - 5mo - 24.99SelfPay,4.998,Discount,Select,5 Months,5 for 25,N,01/01/14 00:00,04/01/15 00:00
+689,Fixed Demo - Select - 3mo - (Used Car),0.0,TBD,Select,Quarterly,Select Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+690,Promo - Select - 6mo - 29.94 - (4.99FOR6) - (OAC) - 1X,5.0,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,04/01/15 00:00
+691,Sponsored - OEM Trial - All Access - 12mo - 83.50,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+692,Select - 1mo - wETF (6mo50) - wHW Actv - AMZ DOT-G3,8.33,Discount,Select,Monthly,Select Discount Monthly AMZ DOT,N,01/10/19 00:00,12/12/99 00:00
+693,Fleet - Select Family Friendly - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+694,Promo - All Access - Monthly - (25% off/mo for 12 mos),15.74,Full Price,All Access,Monthly,All Access Monthly - 25% off,N,14/02/18 00:00,12/12/99 00:00
+695,Courtesy - Select - 24mo w/3mo Savings - 1X,12.241249999999999,Discount,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+696,Sponsored - OEM Trial - All Access - 12mo - 136.98,0.0,Full Price,All Access,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+313,Promo - Veteran - All Access - 12mo,14.99,Full Price,All Access,Annual,All Access Annual,Y,01/12/17 00:00,12/12/99 00:00
+314,Promo - Mostly Music - 12mo w/2mo Free (3FOR1) - 1X,8.325000000000001,Discount,Mostly Music,Annual,Mostly Music Annual,Y,05/01/15 00:00,30/06/15 00:00
+315,Voyager + All Access Family Friendly - 1mo - wActv,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/01/17 00:00,30/11/17 00:00
+316,Promo - Select - 6mo - 59.00 - wETF (6mo59) - GGLEHUB1,9.83,Discount,Select,Semi Annual,Promo - Select - 6mo - 59.00 - wETF (6mo59) - GGLEHUB1,N,01/11/19 00:00,12/12/99 00:00
+317,Promo - Premier Family Friendly - 12mo w/6mo Free (Half-Off),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+318,Promo - Marine Coastal - 3mo - (Half-off) - 1X,14.99,Discount,Other,Quarterly,Data,N,01/11/16 00:00,12/12/99 00:00
+319,Select - 1mo - wActv|Promo $8 Off for 12mos,7.99,Discount,Select,Monthly,Select Discount Monthly ($8 Off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+320,Select - 1mo - wActv,14.99,Full Price,Select,Monthly,Select Monthly,N,05/01/15 00:00,30/06/15 00:00
+321,Introductory - Select - 36mo w/3mo Savings,14.99,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+322,Mostly Music - 3mo - wActv,9.99,Full Price,Mostly Music,Quarterly,Mostly Music Quarterly,N,05/01/15 00:00,30/06/15 00:00
+323,Promo - Select - 5mo - 39.99 - (5for40) - Quarterly Rollover,8.0,Discount,Select,5 Months,5 for 40,N,01/01/14 00:00,12/12/99 00:00
+324,Promo - Select Lite - 5mo - 28.00,5.6000000000000005,Discount,Select Lite,Quarterly,5 for 28 Select Lite,N,01/06/19 00:00,12/12/99 00:00
+325,NavTraffic + NavWeather - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+326,Promo - All Access - 1mo - ($10 off for 12mos),9.99,Discount,All Access,Monthly,All Access Discount Monthly ($10 off for 12mos),N,01/07/17 00:00,12/12/99 00:00
+327,Select Family Friendly - 1mo - wActv,13.99,Full Price,Select,Monthly,Select Monthly,N,05/01/15 00:00,30/06/15 00:00
+328,Select Lite - 1mo,15.99,Full Price,Select Lite,Monthly,Select Lite Monthly,N,01/06/19 00:00,12/12/99 00:00
+329,Video - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+330,Select - 1mo - wActv|Promo $5.99/mo Select for 12mos,5.99,Discount,Select,Monthly,Select Discount Monthly ($10 Off for 12mos),N,01/11/19 00:00,12/12/99 00:00
+331,Courtesy - Select - 1mo - 1X,14.99,Full Price,Select,Monthly,Select Monthly,N,01/01/14 00:00,26/04/16 00:00
+332,Promo - News-Sports-Talk - 6mo w/2mo Free (3FOR1) - 1X,6.66,Discount,Other,Semi Annual,Other,N,05/01/15 00:00,30/06/15 00:00
+333,Promo - Voyager + Select Family Friendly - 6mo - (Half-off) - 1X,14.99,Discount,Select,Semi Annual,Select Discount Semi,N,01/11/17 00:00,12/12/99 00:00
+334,Promo - Pilot Pro - 12mo w/3mo Savings - wActv,74.9925,Discount,Select,Annual,Select Discount Annual,Y,01/07/18 00:00,12/12/99 00:00
+335,Introductory - Select - 12mo w/1mo Savings - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+336,Basic - 1mo,5.99,Full Price,Basic,Monthly,Basic Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+337,Promo - All Access - 12mo - 119.88 - wETF (6mo50) - AMZ DOT-G3 - (WEB),9.99,Discount,All Access,Annual,All Access Discount Annual AMZ DOT,Y,01/10/18 00:00,12/12/99 00:00
+338,Courtesy - Mostly Music - 36mo - 1X,9.99,Full Price,Mostly Music,Three Year,Mostly Music Three Year,Y,05/01/15 00:00,30/06/15 00:00
+339,Select - 1mo - wActv|Promo $5 off for 6mos,10.99,Discount,Select,Semi Annual,Select Discount Monthly ($5 Off for 6mos),N,01/06/19 00:00,12/12/99 00:00
+340,Basic Plus - Special Pricing - 12mo,8.49,Full Price,Basic,Annual,Basic Annual,Y,05/01/15 00:00,30/06/15 00:00
+341,Promo - Select - 3mo w/2mo Free (3FOR1) - 1X,5.0,Discount,Select,Quarterly,3 for 1,N,05/01/15 00:00,30/06/15 00:00
+342,Select - 1moSelfPay,14.99,Full Price,Select,Monthly,Select Monthly,N,05/01/15 00:00,30/06/15 00:00
+343,Select Lite - 1mo|Promo $11 Off for 6mos,4.99,Discount,Select Lite,Monthly,Select Lite Discount Monthly ($11 Off for 6mos),N,01/06/19 00:00,12/12/99 00:00
+344,Promo - Select - 6mo - 29.94 - (4.99FOR6),4.99,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,12/12/99 00:00
+345,Promo - Select - 12mo - 99.00 - WBFB,8.25,Discount,Select,Annual,1 yr/$99,Y,01/06/16 00:00,12/12/99 00:00
+346,All Access - 1mo - wETF (6mo50) - AMZ|Promo $11 off for 12mos AA - AMZ DOT-G3,9.99,Discount,All Access,Monthly,All Access - 1mo - wETF (6mo50) - AMZ|Promo $11 off for 12mos AA - AMZ DOT-G3,N,01/10/19 00:00,12/12/99 00:00
+347,Sponsored - OEM Trial - Select - 3mo - 9.95 - (Used Car),0.0,Full Price,Select,Quarterly,Select Quarterly,N,05/01/15 00:00,30/06/15 00:00
+348,Sponsored - OEM Trial - All Access - 12mo - 135.54,0.0,Full Price,All Access,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+349,Voyager + All Access Family Friendly - 6mo - wActv,19.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,01/11/17 00:00,30/11/17 00:00
+350,Promo - All Access Upgrade for Select Price - 3mo,14.99,Discount,All Access,Quarterly,All Access Discount Quarterly,N,01/11/17 00:00,12/12/99 00:00
+351,Select Family Friendly - 24mo w/3mo Free - wActv,13.99,Full Price,Select,Two Year,Select 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+352,Select - Life - 0.00,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/01/17 00:00,12/12/99 00:00
+353,Select - 6moSelfPay,14.99,Full Price,Select,Semi Annual,Select Semi,N,05/01/15 00:00,30/06/15 00:00
+354,Long Term Plan - All Access - 3 yrs (WBOVCORP),4.14,Discount,All Access,Three Year,All Access Discount 3 Year,Y,01/12/17 00:00,12/12/99 00:00
+355,Courtesy - All Access Family Friendly - 24mo - 1X,19.990000000000002,Full Price,All Access,Two Year,All Access Annual,Y,01/01/14 00:00,30/11/17 00:00
+356,Promo - Select - 5mo - 19.99SelfPay,3.998,Discount,Select,5 Months,5 for 20,N,05/01/15 00:00,30/06/15 00:00
+357,Marine Fish Mapping - 1mo - wActv,0.0,Data,Data,Monthly,Data,N,01/04/18 00:00,12/12/99 00:00
+358,Promo - All Access - Annual - (20% off for 12 mos),16.792,Discount,All Access,Annual,All Access Discount Annual,Y,01/07/18 00:00,12/12/99 00:00
+359,Select - 1mo - wActv|Promo $7.99/mo Select for 12mos,7.99,Discount,Select,Monthly,Select - 1mo - wActv|Promo $7.99/mo Select for 12mos,N,01/11/19 00:00,12/12/99 00:00
+360,Courtesy - All Access - 36mo - 1X,17.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+361,Promo - Select - 6mo - 36.00 - (+$1.00 per month),6.0,Discount,Select,Semi Annual,Select Discount Semi,N,01/12/17 00:00,12/12/99 00:00
+362,Lifetime Subscriber - 399.99,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+363,12 Month Service - 12 Month Term Billed Annually,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+364,Promo - Select Plus SXIR - 12mo - 99.00 - (OAC) - 1X,8.25,Discount,Select,Annual,All Access Discount Annual $99,Y,01/11/17 00:00,12/12/99 00:00
+365,Promo - Select Lite - 6mo - 29.94 - (4.99FOR6) - (OAC),4.99,Discount,Select Lite,Semi Annual,Promo - Select Lite - 6mo - 29.94 - (4.99FOR6) - (OAC),N,01/10/19 00:00,12/12/99 00:00
+366,All Access - 24mo w/3mo Free - wActv,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,05/01/15 00:00,30/06/15 00:00
+367,News-Sports-Talk - 6mo - wActv,10.99,Full Price,Other,Semi Annual,Other,TBD,05/01/15 00:00,30/06/15 00:00
+368,Promo - Marine Coastal - 2mo - (Half-off) - 1X,14.99,Discount,Other,Monthly,Other,N,01/01/17 00:00,12/12/99 00:00
+369,Promo - All Access - 2mo - 2.00 - (Discovery) - 1X,5.0,Discount,All Access,Monthly,Discount Trial Extension,N,01/11/16 00:00,30/07/19 00:00
+370,Promo - Voyager + Select - 6mo - (Half-off) - 1X,14.99,Discount,Select,Semi Annual,Select Discount Semi,N,01/07/17 00:00,12/12/99 00:00
+371,Promo - Select - 6mo - 29.94 - (4.99FOR6) - (OAC),5.0,Discount,Select,Semi Annual,6 for 30,N,01/01/14 00:00,12/12/99 00:00
+828,Promo - Select - 24mo w/4mo Free - No MRD (Legacy Pricing),12.49166667,Discount,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+829,All Access - 36mo w/5mo Free - wActv,18.990000000000002,Full Price,All Access,Three Year,All Access 3 Year,Y,01/01/14 00:00,04/01/15 00:00
+830,Traffic - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+831,Mostly Music - 3moSelfPay,9.99,Full Price,Mostly Music,Quarterly,Mostly Music Quarterly,N,05/01/15 00:00,30/06/15 00:00
+832,Select - 1mo - TaxEx - (NO MRF) - 12.00,14.99,Full Price,Select,Monthly,Select Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+833,Premier - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+834,Promo - NavTraffic - 5mo - 10.00 (5FOR10),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+835,Fleet - All Access - 12mo - wActv - 173.88,20.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/12/17 00:00,12/12/99 00:00
+836,Mostly Music Monthly 2,10.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,01/01/14 00:00,04/01/15 00:00
+837,Promo - Select - 1mo - 0.99,0.99,Discount,Select,Monthly,1 Month/$.99,N,01/01/14 00:00,04/01/15 00:00
+838,Select Family Friendly - 12mo w/1mo Free,13.99,Full Price,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+839,Promo - All Access - 6mo - 84.00,14.0,Discount,All Access,Semi Annual,Promo - All Access - 6mo - 84.00,N,01/10/19 00:00,12/12/99 00:00
+840,NavTraffic - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+841,Promo - Traffic - 6mo w/1mo Free (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+842,Travel-Link - 6mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+843,Introductory - All Access Family Friendly - 12mo w/2mo Savings,20.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/12/17 00:00,12/12/99 00:00
+844,Voyager + All Access - 1mo - wActv,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/01/14 00:00,04/01/15 00:00
+845,Traffic - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+846,Courtesy - All Access - 24mo - 2017,20.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/12/17 00:00,12/12/99 00:00
+847,Promo - All Access - 12mo - 119.88 (9.99/mo) - 1X,9.99,Discount,All Access,Annual,All Access Discount Annual,Y,05/01/15 00:00,30/06/15 00:00
+848,Promo - Premier - 5mo - 29.99 (1X),6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+849,Select - 1mo - wActv|Veteran 25% Off,11.99,Full Price,Select,Monthly,Select Monthly - 25% Off,N,31/07/19 00:00,12/12/99 00:00
+850,Promo - Traffic - 5mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+851,Annual Service - 3 Yr Term Billed Every 3 Years,14.99,Full Price,Select,Two Year,Other,Y,01/01/14 00:00,04/01/15 00:00
+852,Travel-Link + Traffic - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+853,Promo - Select - Annual - (35% off for 12 mos),9.743500000000001,Discount,Select,Annual,Select Discount Annual,Y,01/07/18 00:00,12/12/99 00:00
+854,All Access Family Friendly - 12mo - wActv,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+855,Promo - Select Family Friendly - 6mo w/3mo Free - (Half-Off),6.995,Discount,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+856,Select - 1mo - wActv|Promo $7 Off for 12mos,8.99,Discount,Select,Monthly,Select Discount Monthly ($7 Off for 12mos),N,01/01/19 00:00,12/12/99 00:00
+857,Introductory - Select Family Friendly - 12mo w/1mo Savings - wActv,13.49,Full Price,Select,Annual,Other,Y,01/01/14 00:00,04/01/15 00:00
+858,Sponsored - OEM Trial - Select - 12mo - 116.55,0.0,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+859,Promo - Select Family Friendly - 12mo w/3mo Free (3FOR1) - 1X,10.4925,Discount,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+860,Mostly Music - 36mo,10.99,Full Price,Mostly Music,Three Year,Mostly Music Three Year,Y,01/01/14 00:00,04/01/15 00:00
+861,Promo - All Access - 12mo - Select Price,14.99,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+862,Fleet - All Access - 1mo - wActv,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+863,Mostly Music - 1mo - wActv|Veteran 25% Off,8.24,Full Price,Mostly Music,Monthly,Mostly Music Discount Monthly,N,31/07/19 00:00,12/12/99 00:00
+864,Introductory - All Access Family Friendly - 24mo w/2mo Savings - wActv,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+865,Promo - Traffic - 4mo for 19.95 (4FOR20) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+866,Promo - Select - 12mo w/1mo Free (Legacy Pricing) - wActv,14.49,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+867,Traffic - 12mo w/1mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+868,Select - 12mo - wActv|Veteran 25% Off,11.99,Full Price,Select,Annual,Select Annual - 25% Off,Y,31/07/19 00:00,12/12/99 00:00
+869,Sirius XM ALL ACCESS - 12mo - wActv,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/01/14 00:00,04/01/15 00:00
+870,Fleet - All Access - 1mo - wActv - 12.49,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/07/17 00:00,30/11/17 00:00
+871,Sponsored - OEM Trial - All Access - 6mo - 72.45,0.0,Full Price,All Access,Semi Annual,All Access Semi,N,01/01/14 00:00,04/01/15 00:00
+872,Mostly Music - 12mo,10.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,01/01/14 00:00,04/01/15 00:00
+873,Select - Life - 699.00 - wActv,6.66,TBD,Select,Lifetime,Select Lifetime,Y,01/01/14 00:00,04/01/15 00:00
+874,All Access - 12mo - wActv,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+875,Promo - Select Family Friendly - 12mo,6.66,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+876,Courtesy - Introductory - Select Family Friendly - 36mo w/3mo Savings - 1X,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/06/16 00:00,12/12/99 00:00
+877,Courtesy - All Access Family Friendly - 3mo - 1X,20.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/12/17 00:00,12/12/99 00:00
+878,Courtesy - News-Sports-Talk - 6mo - 1X,9.99,Full Price,Other,Semi Annual,Other,TBD,01/01/14 00:00,04/01/15 00:00
+879,Traffic - 36mo w/5mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+880,Marine Inland - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+881,Premier Family Friendly - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,05/01/15 00:00,30/06/15 00:00
+882,Sponsored - OEM Trial - All Access - 3mo - 19.98,0.0,Full Price,All Access,Quarterly,All Access Quarterly,N,05/01/15 00:00,30/06/15 00:00
+883,Introductory - All Access - 24mo w/2mo Savings - wActv,18.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+884,Promo - Select - 6mo - 24.99SelfPay,4.165,Discount,Select,Semi Annual,6 for 25,N,01/01/14 00:00,04/01/15 00:00
+885,All Access Family Friendly - 3mo - wActv,18.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+886,Annual Service - 1 Yr Term Billed Annually,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+887,Promo - Select - 12mo - 108.00 - ($9.00/mo),9.0,Discount,Select,Annual,12 for 108,Y,01/10/18 00:00,12/12/99 00:00
+888,Promo - Select - 5mo - 19.99 - (5for20),4.0,Discount,Select,5 Months,5 for 20,N,01/01/14 00:00,04/01/15 00:00
+889,Courtesy - All Access Family Friendly - 6mo - 1X,20.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,01/12/17 00:00,12/12/99 00:00
+890,Select - 1mo,14.99,Full Price,Select,Monthly,Select Monthly,N,01/01/14 00:00,04/01/15 00:00
+891,Fisherman - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+892,Mirge - SiriusXM All-In-One - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+893,Promo - NavTraffic + NavWeather - 6mo - (Half-off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+894,Mostly Music - 6mo,10.99,Full Price,Mostly Music,Semi Annual,Mostly Music Semi,TBD,01/01/14 00:00,04/01/15 00:00
+895,Promo - Select - 12mo w/3mo Free (3FOR1) - 1X,11.2425,Discount,Select,Annual,Select Annual,Y,05/01/15 00:00,30/06/15 00:00
+896,Promo - Select - 3mo (Legacy Pricing) - wActv,13.99,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+897,Courtesy - Select - 12mo w/1mo Savings - 1X,13.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+898,Courtesy - Select - 6mo - 1X,14.99,Full Price,Select,Semi Annual,Select Semi,N,27/04/16 00:00,12/12/99 00:00
+899,All Access - 6mo - wActv|Veteran 25% OffA3,15.74,Full Price,All Access,Semi Annual,All Access Semi - 25% Off,N,31/07/19 00:00,12/12/99 00:00
+900,Promo - Select - 6mo w/3mo Free (Half-Off),7.495,Discount,Select,Semi Annual,Select Semi,N,01/01/14 00:00,04/01/15 00:00
+901,Promo - All Access - 6mo - 72.00 - wETF (6mo50) - AMZ DOT-G3,12.0,Discount,All Access,Semi Annual,6 for 72 All Access AMZ,N,01/06/19 00:00,12/12/99 00:00
+902,Marine Coastal - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+903,Mostly Music - 24mo,10.99,Full Price,Mostly Music,Two Year,Mostly Music Three Year,Y,01/01/14 00:00,04/01/15 00:00
+904,Promo - NavWeather - 4mo - 19.95 (4FOR20) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+905,Select Family Friendly - 3mo - wActv,14.99,Full Price,Select,Quarterly,Select Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+906,OEM Trial - Select - 2mo - 0.00 - (Used Car),0.0,Full Price,Select,2 Months,Other,N,01/01/14 00:00,04/01/15 00:00
+907,Premier Family Friendly - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+908,Promo - Select - 1mo - (NO MRF) - 0.99,0.99,Discount,Select,Monthly,1 Month/$.99,N,01/01/14 00:00,04/01/15 00:00
+909,Courtesy - Select - 1mo (Legacy MRF),15.99,Full Price,Select,Monthly,Select Monthly,N,14/02/18 00:00,12/12/99 00:00
+910,Charter - 1mo - wActv,14.99,Full Price,Select,Monthly,Other,N,01/01/14 00:00,04/01/15 00:00
+911,Travel-Link - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+912,Courtesy - All Access - 6mo - 1X,18.990000000000002,Full Price,All Access,Semi Annual,All Access Semi,N,01/01/14 00:00,04/01/15 00:00
+913,Promo - All Access - 12mo - 192.00 - wETF (6mo50) - AMZ DOT-G3,16.0,Discount,All Access,Annual,Promo - All Access - 12mo - 192.00 - wETF (6mo50) - AMZ DOT-G3,Y,01/10/19 00:00,12/12/99 00:00
+914,Promo - Travel-Link - 3mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+915,Fixed Demo - Select - 1mo,14.99,Full Price,Select,Monthly,Select Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+916,Sponsored - OEM Trial - Select - 3mo - 19.43,0.0,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+917,Commercial Family - 12mo w/1mo Free - (D2B) - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+918,Promo - Premier Family Friendly - 6mo w/3mo Free - (Half-Off) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+919,Introductory - Select - 12mo w/1mo Savings - wHW Actv - wETF,14.99,Full Price,Select,Annual,Select Annual,Y,01/01/14 00:00,04/01/15 00:00
+920,Promo - Premier Family Friendly - 12mo w/3mo Free (3FOR1) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+921,Promo - Mostly Music - 36mo,10.99,Full Price,Mostly Music,Three Year,Mostly Music Three Year,Y,01/01/14 00:00,04/01/15 00:00
+922,Select Family Friendly - 3mo - wHW Actv - wETF,13.99,Full Price,Select,Quarterly,Select Quarterly,TBD,01/01/14 00:00,04/01/15 00:00
+923,3 months free service w/ Monthly Service (OEM),6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+924,Select Family Friendly - 36mo - wActv,15.99,Full Price,Select,Three Year,Select 3 Year,Y,27/04/16 00:00,12/12/99 00:00
+925,Travel-Link - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+926,Courtesy - Select - 36mo w/5mo Savings - 1X,13.49,Full Price,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+927,NavWeather - 36mo w/5mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+928,Sponsored - OEM Trial - All Access - 12mo - 145.98,0.0,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+929,All Access - 3mo - wActv,19.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/02/13 00:00,31/12/13 00:00
+930,Promo - Select - 5mo - 19.99 - (5for20) - 1X,4.0,Discount,Select,5 Months,5 for 20,N,01/01/14 00:00,04/01/15 00:00
+931,Premier - 1mo,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+932,Fleet - All Access - 1mo - wActv - 11.99,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/07/17 00:00,30/11/17 00:00
+933,Select Family Friendly - 1mo,13.99,Full Price,Select,Monthly,Select Monthly,TBD,01/02/13 00:00,31/12/13 00:00
+934,Travel-Link - 12mo w/1mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+935,Introductory - NavTraffic + NavWeather - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+936,Sirius XM ALL ACCESS - 1mo - wActv,19.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,01/01/14 00:00,04/01/15 00:00
+937,Select Family Friendly Add-on - 1mo,13.99,Full Price,Select,Monthly,Select Monthly,TBD,01/01/14 00:00,04/01/15 00:00
+938,Premier Family Friendly - 12mo w/1mo Free - wActv,6.66,Full Price,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+939,Courtesy - Select Family Friendly - 1mo - 1X,14.99,Full Price,Select,Monthly,Select Monthly,N,27/04/16 00:00,12/12/99 00:00
+940,Courtesy - Select Family Friendly - 12mo w/1mo Savings - 1X,13.49,Full Price,Select,Annual,Select Annual,Y,01/02/13 00:00,31/12/13 00:00
+941,2005 Promotion - 3 Year Plan - 359.64 w/MRF GRACE,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+942,Select - 24mo w/3mo Free,13.116249999999999,Discount,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+943,Promo - Select - 5mo - No MRD,6.66,Discount,Select,5 Months,Other,N,01/02/13 00:00,31/12/13 00:00
+944,Fleet - Select - 1mo - wActv,14.99,Full Price,Select,Monthly,Select Monthly,TBD,01/02/13 00:00,31/12/13 00:00
+945,Select - 36mo - wActv,14.99,Full Price,Select,Three Year,Select 3 Year,Y,01/02/13 00:00,31/12/13 00:00
+946,Select - 3moSelfPay,14.99,Full Price,Select,Quarterly,Select Quarterly,N,01/01/14 00:00,04/01/15 00:00
+947,Sirius XM ALL ACCESS - 12mo,18.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,05/01/15 00:00,30/06/15 00:00
+948,Select - 12mo w/1mo Free - wHW Actv - wETF,14.99,Full Price,Select,Annual,Select Annual,Y,01/02/13 00:00,31/12/13 00:00
+949,Promo - Select - 24mo w/5mo Free,14.99,Full Price,Select,Two Year,Select 2 Year,Y,01/01/14 00:00,04/01/15 00:00
+950,Travel-Link + Traffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+951,Sponsored - OEM Trial - All Access - 4mo - 51.80,0.0,Full Price,All Access,4 Months,Other,N,01/01/14 00:00,04/01/15 00:00
+952,Promo - Select - 1mo - (NO MRF) - 0.99 (Web),0.99,Discount,Select,Monthly,1 Month/$.99,TBD,01/02/13 00:00,31/12/13 00:00
+953,3 Year Promotion,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+954,Promo - Select - 6mo - 24.99 (6for25),4.1667000000000005,Discount,Select,Semi Annual,6 for 25,N,01/02/13 00:00,31/12/13 00:00
+955,Courtesy - Mostly Music - 1mo - 1X,9.99,Full Price,Mostly Music,Monthly,Mostly Music Monthly,N,01/02/13 00:00,31/12/13 00:00
+956,Introductory - Marine Inland - 12mo w/1mo Savings - wActv,6.66,TBD,TBD,TBD,Other,Y,01/02/13 00:00,31/12/13 00:00
+957,News-Sports-Talk - 3mo,10.99,Full Price,Other,Quarterly,Other,TBD,01/02/13 00:00,31/12/13 00:00
+958,Promo - Select - 12mo - 89.00SelfPay,7.416666667,Discount,Select,Annual,Half off/year,Y,01/02/13 00:00,31/12/13 00:00
+959,All Access Monthly 2,18.990000000000002,Full Price,All Access,Monthly,All Access Monthly,N,05/01/15 00:00,30/06/15 00:00
+960,Premier - 12mo w/1mo Free - wHW Actv - wETF,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+961,Quarterly Service,14.99,Full Price,Select,Quarterly,Other,N,01/02/13 00:00,31/12/13 00:00
+962,Premier - 3mo - wHW Actv - wETF,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+963,Introductory - All Access - 24mo w/2mo Savings,19.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/02/13 00:00,31/12/13 00:00
+964,Introductory - All Access - 12mo w/2mo Savings,19.990000000000002,Full Price,All Access,Annual,All Access Annual,Y,01/02/13 00:00,31/12/13 00:00
+965,Promo - All Access - 24mo - Select Price,19.990000000000002,Full Price,All Access,Two Year,All Access 2 Year,Y,01/02/13 00:00,31/12/13 00:00
+966,A La Carte Gold - 12mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+967,Sirius XM ALL ACCESS - 1mo - wHW Actv - wETF,19.990000000000002,Full Price,All Access,Monthly,All Access Annual,Y,01/02/13 00:00,31/12/13 00:00
+968,Travel-Link - 24mo w/3mo Free,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+969,Sponsored - OEM Trial - ALL ACCESS - 12mo - 116.55,0.0,Full Price,All Access,Annual,Select Annual,Y,01/02/13 00:00,31/12/13 00:00
+970,Traffic - 24mo w/3mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/01/14 00:00,04/01/15 00:00
+971,OEM Trial - Select - 3mo - 0.00 - (Used Car),0.0,Full Price,Select,Quarterly,Select Quarterly,N,01/02/13 00:00,31/12/13 00:00
+972,Marine Coastal - 3mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+973,Promo - Travel-Link - 5mo (5for20/25/30) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+974,Promo - Travel-Link - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+975,Promo - Traffic - 12mo - (Half-off),6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+976,Travel-Link + Traffic - 1mo - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+977,Promo - NavWeather - 6mo (6for25/35) - 1X,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+978,Voyager + Select - 12mo w/1mo Free - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,01/02/13 00:00,31/12/13 00:00
+979,Promo - Premier - 24mo,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+980,Select - 6mo,14.99,Full Price,Select,Semi Annual,Select Semi,TBD,01/02/13 00:00,31/12/13 00:00
+981,Basic Plus - 12mo,8.49,Full Price,Basic,Annual,Basic Annual,Y,01/01/14 00:00,04/01/15 00:00
+982,Lifetime Subscriber,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+983,Promo - Traffic - 12mo,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+984,NavTraffic - 12mo w/1mo Free - wActv,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+985,Courtesy - News-Sports-Talk - 1mo - 1X,9.99,Full Price,Other,Monthly,Other,N,01/02/13 00:00,31/12/13 00:00
+986,Basic Plus - Special Pricing - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,N,01/02/13 00:00,31/12/13 00:00
+987,Commercial Standard - 12mo w/1mo Free - (NO MRF) - wActv,14.99,Full Price,Select,Annual,Select Annual,Y,01/02/13 00:00,31/12/13 00:00
+988,Select - 1mo - wActv|Promo $6 Off for 6mos,9.99,Discount,Select,Monthly,Select Discount Monthly ($6 Off for 6mos),N,01/01/19 00:00,12/12/99 00:00
+989,Annual Service,6.66,TBD,TBD,TBD,Other,TBD,01/02/13 00:00,31/12/13 00:00
+990,Sponsored - OEM Trial - All Access - 12mo - 118.98,0.0,Full Price,All Access,Annual,Select Annual,Y,01/02/13 00:00,31/12/13 00:00
+991,Promo - Select - 36mo,6.66,TBD,Select,Three Year,Select 3 Year,Y,05/01/15 00:00,30/06/15 00:00
+992,Basic Plus - 1mo,8.49,Full Price,Basic,Monthly,Basic Monthly,N,01/02/13 00:00,31/12/13 00:00
+993,Courtesy - All Access - 3mo - 1X,18.990000000000002,Full Price,All Access,Quarterly,All Access Quarterly,N,01/02/13 00:00,31/12/13 00:00
+994,Promo - Select Family Friendly - 3mo w/2mo Free (3FOR1) - 1X,4.663333333,Discount,Select,Quarterly,3 for 1,N,01/01/14 00:00,04/01/15 00:00
+995,Espanol - 1mo - wETF,5.99,Full Price,Espanol,Monthly,Espanol Monthly,TBD,05/01/15 00:00,30/06/15 00:00
+996,Sponsored - OEM Trial - Select - 6mo - 19.43,0.0,Full Price,Select,Semi Annual,Select Semi,N,01/02/13 00:00,31/12/13 00:00
+997,Promo - Mostly Music - 12mo,10.99,Full Price,Mostly Music,Annual,Mostly Music Annual,Y,01/02/13 00:00,31/12/13 00:00
+998,Espanol Plus - 12mo,8.49,Full Price,Espanol,Annual,Espanol Annual,Y,01/02/13 00:00,31/12/13 00:00
+999,Marine Inland - 3mo - wActv,14.99,Full Price,Select,TBD,Other,N,01/02/13 00:00,31/12/13 00:00

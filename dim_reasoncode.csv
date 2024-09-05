@@ -1,0 +1,310 @@
+REASONCODETYPE,REASONCODE,REASONNAME,REACTIVATION_INTERVAL,TEMP_DEACTIVATION_IND,TEMP_DEACTIVATION_INTERVAL,REASONNAMEROLLUP,REASON_CODE_GROUP
+Voluntary,1,poor coverage,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Involuntary,2,dealer demo conversion,90,N,0,Misc,Non Pay
+Voluntary,3,Expired - Internal SC,90,Y,30,Pre-Paid Period Expired,Other Voluntary
+Voluntary,4,Plan Upgrade,90,N,0,Admin,Other Voluntary
+Voluntary,5,Promo Offer Expired,90,N,0,Misc,Other Voluntary
+Voluntary,6,Howard Reception,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Involuntary,7,sms activation problem,90,N,0,Customer Service,Non Pay
+Voluntary,8,Receiver Swap,90,N,0,Misc,Other Voluntary
+Voluntary,9,Cancel FOR service unwind,90,N,0,Cancel FOR service unwind,Other Voluntary
+Voluntary,10,Don't Listen Enough,90,N,0,Not Listening,Other Voluntary
+Voluntary,11,no reception,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,12,TERMS DECLINED IN NCWP,90,N,0,TERMS DECLINED IN NCWP,Other Voluntary
+Voluntary,13,xm/sirius merger,90,N,0,Misc,Other Voluntary
+Voluntary,14,hardware,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Involuntary,15,test radios,90,N,0,Misc,Non Pay
+Voluntary,16,myp related package change,90,N,0,Billing,Other Voluntary
+Voluntary,17,2nd Vehicle Shutoff,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,18,fdd-season of use ended,90,N,0,Seasonal,Other Voluntary
+Voluntary,19,distorted reception,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,20,Dissatisfied -Non Music Prgrm,90,N,0,Programming/ Non-Music ,Other Voluntary
+Transfer,21,vehicle sold/traded,90,N,0,Vehicle Sold/Traded,Other Voluntary
+Involuntary,22,consolidate multiple accounts,90,N,0,Admin,Non Pay
+Voluntary,23,loan/lease termination,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,24,Duplicate account,90,N,0,Admin,Other Voluntary
+Voluntary,25,Gift,90,N,0,Gift,Other Voluntary
+Involuntary,26,employee termination,90,N,0,Misc,Non Pay
+Voluntary,27,OEM CPO Deactivation,90,N,0,OEM CPO Deactivation,UCAD
+Voluntary,28,Do Not Renew,90,N,0,Do Not Renew,Other Voluntary
+Transfer,29,fdd-transfer ownership,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,30,fdd-poor signal coverage,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,31,reception problems,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,32,programming quality,90,N,0,Programming/ General,Other Voluntary
+Voluntary,33,none,90,N,0,Misc,Other Voluntary
+Involuntary,34,uas procedure,90,N,0,Misc,Non Pay
+Voluntary,35,fdd-inadequate sports content,90,N,0,Programming/ Non-Music,Other Voluntary
+Transfer,36,fdd-replaced by oem trial vehicle,90,N,0,Replaced by OEM Trial Same Svc,Other Voluntary
+voluntary,37,Deactivation as part of Ford d,90,N,0,OEM CPO Deactivation,Vehicle Related
+Voluntary,38,Vehicle Sold/Traded,90,N,0,Vehicle Sold/Traded,Vehicle Related
+Voluntary,39,removal of premium,90,N,0,Misc,Other Voluntary
+Voluntary,40,billing,90,N,0,Billing,Other Voluntary
+Voluntary,41,Rental Defleet,90,N,0,Rental Delfeet,Unknown
+Voluntary,42,Returned Leased Car,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,43,Vehicle Transfer,90,N,0,Vehicle Related,Other Voluntary
+Involuntary,44,dealer web request,90,N,0,Misc,Non Pay
+Voluntary,45,Dissatisfied FM Reception,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,46,MFR Req. Replace ,90,N,0,Admin,Other Voluntary
+Voluntary,47,Commute Change,90,N,0,Not Listening,Other Voluntary
+Voluntary,48,military service,90,N,0,Military Service,Other Voluntary
+Voluntary,49,inadequate talk/var content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,50,listener care problems,90,N,0,Customer Service,Other Voluntary
+Voluntary,51,price too high,90,N,0,Value-Cost,Other Voluntary
+Voluntary,52,fdd-expired package,90,N,0,Pre-Paid Period Expired,Other Voluntary
+voluntary,53,Deactivation as part of Hertz ,90,N,0,OEM CPO Deactivation,Vehicle Related
+Voluntary,54,retailer/dealer,90,N,0,Misc,Other Voluntary
+Voluntary,55,Channel Change,90,N,0,Programming/ General,Other Voluntary
+Voluntary,56,3rd party service provider,90,N,0,Customer Service,Other Voluntary
+Involuntary,57,fdd-oem sales cancelled,90,N,0,Admin,Non Pay
+Voluntary,58,Military Service,90,N,0,Military Service,Other Voluntary
+Voluntary,59,Dissatisfied w/Equip,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,60,Gift Not Wanted,90,N,0,Gift,Other Voluntary
+Voluntary,61,Vehicle & Radio Sold,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,62,Plan Downgrade,90,N,0,Admin,Other Voluntary
+Voluntary,63,death certificate,90,N,0,Deceased/Illness,Other Voluntary
+Involuntary,64,employee terminated,90,N,0,Misc,Non Pay
+Voluntary,65,multi year svc package end,90,N,0,Misc,Other Voluntary
+Voluntary,66,compatibility,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,67,Retail Demo/Unit Sold,90,N,0,Misc,Other Voluntary
+Voluntary,68,Programming/ General,90,N,0,Programming/ General,Other Voluntary
+Voluntary,69,cannot justify cost,90,N,0,Value-Cost,Other Voluntary
+Voluntary,70,Programming/ Non-Music,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,71,fdd-competition,90,N,0,Competition,Other Voluntary
+Voluntary,72,radio lost,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,73,Receiver Related,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Involuntary,74,test,90,N,0,Misc,Non Pay
+Voluntary,75,Vehicle Stolen,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,76,fdd-non-myp billing errors,90,N,0,Billing,Other Voluntary
+Voluntary,77,Replaced by OEM Trial Same Svc,90,N,0,Replaced by OEM Trial Same Svc,Vehicle Related
+Voluntary,78,fdd-inadequate talk/var conten,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,79,subscriber deceased,90,N,0,Deceased/Illness,Other Voluntary
+Voluntary,80,non-myp billing errors,90,N,0,Billing,Other Voluntary
+Voluntary,81,B2C Defleet,90,N,0,B2C Delfeet,Other Voluntary
+Voluntary,82,fdd-competition-equipment,90,N,0,Competition,Other Voluntary
+Involuntary,83,employee,90,N,0,Misc,Non Pay
+Voluntary,84,Dissatisfied - Music Prgrm,90,N,0,Programming/ Music ,Other Voluntary
+Voluntary,85,Competition,90,N,0,Competition,Other Voluntary
+NGA,86,Replacement Ordered,90,N,0,Admin,Other Voluntary
+Voluntary,87,fdd-competition-news,90,N,0,Competition,Other Voluntary
+Voluntary,88,OLD OEM/New OEM Swap,90,N,0,Replaced by OEM Trial Same Svc,Other Voluntary
+Voluntary,89,not authorized by account,90,N,0,Misc,Other Voluntary
+Voluntary,90,music royalty fee,90,N,0,Music Royalty Fee,Other Voluntary
+Voluntary,91,gift end date,90,N,0,Gift,Other Voluntary
+Voluntary,92,Mail Request,90,N,0,Mail Request,Other Voluntary
+Voluntary,93,season of use ended,90,N,0,Seasonal,Other Voluntary
+Voluntary,94,Lost to Competitor,90,N,0,Competition,Other Voluntary
+Voluntary,95,competition-music,90,N,0,Competition,Other Voluntary
+Voluntary,96,Deactivate Test Recvr ,90,N,0,Admin,Other Voluntary
+Voluntary,97,3rd party care problems,90,N,0,Customer Service,Other Voluntary
+Involuntary,98,manufacturing test,90,N,0,Misc,Non Pay
+Transfer,99,vehicle with radio sold,90,N,0,Vehicle Sold/Traded,Other Voluntary
+Voluntary,100,programming lineup changes,90,N,0,Programming/ General,Other Voluntary
+Voluntary,101,equipment below expectations,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,102,competition-news,90,N,0,Competition,Other Voluntary
+Voluntary,103,competition-equipment,90,N,0,Competition,Other Voluntary
+Voluntary,104,Closed For Fraud,90,N,0,Closed For Fraud,Other Voluntary
+Voluntary,105,Replaced By OEM Trial Different Svc,90,N,0,Replaced By OEM Trial Same Svc,Vehicle Related
+Voluntary,106,Bought new car with XM,90,N,0,Competition,Other Voluntary
+Voluntary,107,fdd-price too high,90,N,0,Value-Cost,Other Voluntary
+Voluntary,108,nascar,90,N,0,Competition,Other Voluntary
+Voluntary,109,Multi Sub Price Increase,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,110,damaged,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,111,Seasonal - Internal SC,90,Y,180,Seasonal,Other Voluntary
+Voluntary,112,Fleet/Commercial Deactivation,90,N,0,Fleet/Commercial Deactivation,Other Voluntary
+Voluntary,113,Unhappy w/ Auto Renewal,90,N,0,Unhappy w/ Auto Renewal,Other Voluntary
+Voluntary,114,Receiver Broken/Out of Warrant,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,115,fdd-competition-talk/variety,90,N,0,Competition,Other Voluntary
+Voluntary,116,downgrade,90,N,0,Admin,Other Voluntary
+Voluntary,117,Intro Offer Not Renewed,90,N,0,Misc,Other Voluntary
+Voluntary,118,30-day guarantee,90,N,0,Misc,Other Voluntary
+Involuntary,119,nonpayment,83,N,0,Non-Pay,Non Pay
+Voluntary,120,Music Royalty Fee,90,N,0,Music Royalty Fee,Other Voluntary
+Voluntary,121,Not worth the Price,90,N,0,Value-Cost,Other Voluntary
+Voluntary,122,Dissatisfied Reception,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,123,split bill end date,90,N,0,Billing,Other Voluntary
+Voluntary,124,fdd-cost of service increase,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,125,Gift Card Expired,90,N,0,Gift,Other Voluntary
+Voluntary,126,Vehicle Only Destroyed,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,127,mail request received,90,N,0,Mail Request,Other Voluntary
+Voluntary,128,TELEMATICS - CHANGE OF OWNERSHIP,90,N,0,TELEMATICS - CHANGE OF OWNERSHIP,Vehicle Related
+Voluntary,129,lost/stolen,90,N,0,Radio Lost/Damaged,Other Voluntary
+Involuntary,130,sale cancelled,90,N,0,Admin,Non Pay
+Voluntary,131,Billing Issue/Customer Service,90,N,0,Billing,Other Voluntary
+Voluntary,132,Financial Hardship,90,N,0,Financial,Other Voluntary
+Voluntary,133,Closed By Agent (Level 1) - Service Closure Tool,90,N,0,Closed By Agent (Level 1) - Service Closure Tool,Other Voluntary
+Transfer,134,fdd-vehicle sold/traded,90,N,0,Vehicle Sold/Traded,Other Voluntary
+Not Applicable,135,N/A,90,N,0,Misc,Other Voluntary
+Involuntary,136,account set up error,90,N,0,Admin,Non Pay
+Voluntary,137,seasonal,90,N,0,Seasonal,Other Voluntary
+Voluntary,138,Relationship Issue,90,N,0,Misc,Other Voluntary
+Voluntary,139,fdd-nascar,90,N,0,Competition,Other Voluntary
+Voluntary,140,No Reason Given,90,N,0,Misc,Other Voluntary
+Voluntary,141,competition-talk/variety,90,N,0,Competition,Other Voluntary
+Voluntary,142,Cost of Service Increase,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,143,fdd-data programming content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,144,un/poorly resolved bill'g prob,90,N,0,Billing,Other Voluntary
+Voluntary,145,fdd-fleet driver terminated,90,N,0,Misc,Other Voluntary
+Voluntary,146,CHANGE OF OWNERSHIP,90,N,0,TELEMATICS - CHANGE OF OWNERSHIP,Vehicle Related
+Voluntary,147,winback attempt failed,90,N,0,Misc,Other Voluntary
+Voluntary,148,Credit limit/credit card probl,90,N,0,Value-Cost,Other Voluntary
+Voluntary,149,Not Listening,90,N,0,Not Listening,Other Voluntary
+Voluntary,150,lease/loan term end date,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,151,cost,90,N,0,Value-Cost,Other Voluntary
+Voluntary,152,fdd-myp billing errors,90,N,0,Billing,Other Voluntary
+Voluntary,153,lack of billing options,90,N,0,Billing,Other Voluntary
+Voluntary,154,Dealer Demo/Recvr Swap,90,N,0,Admin,Other Voluntary
+Voluntary,155,Military Leave,90,N,0,Military Service,Other Voluntary
+Voluntary,156,persistent error message,90,N,0,Misc,Other Voluntary
+Voluntary,157,fdd-seasonal,90,N,0,Seasonal,Other Voluntary
+voluntary,158,Used Vehicle Deactivation,90,N,0,OEM CPO Deactivation,UCAD
+Voluntary,159,Value-Cost,90,N,0,Value-Cost,Other Voluntary
+Voluntary,160,free service ended,90,N,0,Misc,Other Voluntary
+Voluntary,161,xm billing,90,N,0,Billing,Other Voluntary
+Voluntary,162,Plug and Play/New OEM Swap,90,N,0,Replaced by OEM Trial Same Svc,Other Voluntary
+Voluntary,163,cost of service increase,90,N,0,Cost of Service Increase,Other Voluntary
+Not Applicable,164,N/A,90,N,0,Misc,Other Voluntary
+Voluntary,165,Gift Card Expired,90,Y,0,Gift,Other Voluntary
+Voluntary,166,fdd-free service ended,90,N,0,Misc,Other Voluntary
+Voluntary,167,Account Correction,90,N,0,Admin,Other Voluntary
+Involuntary,168,demo/test radios,90,N,0,Misc,Non Pay
+Voluntary,169,radio defective,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,170,Equipment Upgrade,90,N,0,Admin,Other Voluntary
+Voluntary,171,Rebate Issue,90,N,0,Misc,Other Voluntary
+Voluntary,172,Seasonal Radio,90,N,0,Seasonal Radio,Other Voluntary
+Voluntary,173,competition-other sports,90,N,0,Competition,Other Voluntary
+Voluntary,174,other fees,90,N,0,Value-Cost,Other Voluntary
+Voluntary,175,installation problems,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,176,Dissatisfied Audio Quality,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,177,fdd-competition-other sports,90,N,0,Competition,Other Voluntary
+Voluntary,178,fdd-multi year svc package end,90,N,0,Misc,Other Voluntary
+Voluntary,179,upgrade,90,N,0,Misc,Other Voluntary
+voluntary,180,Defleet Finance Put on paying ,90,N,0,OEM CPO Deactivation,Vehicle Related
+Voluntary,181,fdd-gift end date,90,N,0,Gift,Other Voluntary
+Voluntary,182,engineering reported,90,N,0,Misc,Other Voluntary
+Voluntary,183,Financial,90,N,0,Financial,Other Voluntary
+Involuntary,184,oem sale cancelled,90,N,0,Admin,Non Pay
+Voluntary,185,competitive,90,N,0,Competition,Other Voluntary
+Voluntary,186,poor signal coverage,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,187,fdd-cannot justify cost,90,N,0,Value-Cost,Other Voluntary
+Voluntary,188,Natural Disaster,90,N,0,Natural Disaster,Other Voluntary
+Voluntary,189,Vehicle Sold,90,N,0,Vehicle Sold/Traded,Other Voluntary
+Voluntary,190,fdd-end free xmro,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,191,Radio Lost/Damaged,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,192,radio sold/given away,90,N,0,Receiver Sold/Given Away,Other Voluntary
+voluntary,193,CPO Deactivation,90,N,0,OEM CPO Deactivation,UCAD
+Voluntary,194,Programming/ Music,90,N,0,Programming/ Music,Other Voluntary
+Transfer,195,transfer of ownership,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,196,competition,90,N,0,Competition,Other Voluntary
+voluntary,197,Deactivation as part of car re,90,N,0,OEM CPO Deactivation,Vehicle Related
+Voluntary,198,fdd-competition-lifetime bill,90,N,0,Competition,Other Voluntary
+Voluntary,199,radio won't activate,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,200,fdd-audio programming content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,201,Illness,90,N,0,Deceased/Illness,Other Voluntary
+Voluntary,202,fdd-reducing overall costs,90,N,0,Financial,Other Voluntary
+Voluntary,203,fdd-customer service,90,N,0,Customer Service,Other Voluntary
+Voluntary,204,fdd-military service,90,N,0,Military Service,Other Voluntary
+Voluntary,205,installation,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,206,xm listener care,90,N,0,Customer Service,Other Voluntary
+Transfer,207,fdd-replaced by oem trial vehi,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,208,data programming content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,209,inadequate news content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,210,fdd-dj interruptions,90,N,0,Programming/ General,Other Voluntary
+Voluntary,211,listening experience,90,N,0,Programming/ General,Other Voluntary
+Voluntary,212,end free xmro/cost inc,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,213,hurricane damage,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,214,Admin,90,N,0,Admin,Other Voluntary
+Voluntary,215,lack of interest/awareness,90,N,0,Not Listening,Other Voluntary
+Voluntary,216,fdd-lack of billing options,90,N,0,Billing,Other Voluntary
+Involuntary,217,transfer between accounts,90,N,0,Admin,Non Pay
+Voluntary,218,myp billing errors,90,N,0,Billing,Other Voluntary
+Voluntary,219,customer reported,90,N,0,Misc,Other Voluntary
+Voluntary,220,replace / repair,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,221,price/fees too high,90,N,0,Value-Cost,Other Voluntary
+Voluntary,222,Vehicle Destroyed/Stolen,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,223,Receiver Sold/Given Away,90,N,0,Receiver Sold/Given Away,Other Voluntary
+voluntary,224,CarMax Deactivation,90,N,0,OEM CPO Deactivation,UCAD
+Involuntary,225,Non-Pay,83,Y,7,Non-Payment,Non Pay
+Voluntary,226,fdd-end free xmro/cost inc,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,227,fraud,90,N,0,Misc,Other Voluntary
+Voluntary,228,fdd - demo period end date,90,N,0,Misc,Other Voluntary
+Voluntary,229,Seasonal,90,Y,180,Seasonal,Other Voluntary
+Voluntary,230,competition-lifetime billing,90,N,0,Competition,Other Voluntary
+Voluntary,231,Deceased,90,N,0,Deceased/Illness,Other Voluntary
+Voluntary,232,non-use,90,N,0,Not Listening,Other Voluntary
+Voluntary,233,xm service transfer,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,234,damaged/defective equipment,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,235,fdd-inadequate music content,90,N,0,Programming/ Music,Other Voluntary
+Involuntary,236,demo package expired,90,N,0,Misc,Non Pay
+Voluntary,237,CUST REQ CXL Hang Up,90,N,0,Customer Call to Cancel ? Hang Up,Other Voluntary
+Involuntary,238,Pre-Paid Period Expired,90,N,0,Pre-Paid Period Expired,Other Voluntary
+Involuntary,239,NonPay - Internal SC,83,Y,20,Non-Pay,Non Pay
+Voluntary,240,fdd_demo/promotion end date,90,N,0,Misc,Other Voluntary
+Voluntary,241,Unknown Reason,90,N,0,Unknown Reason,Other Voluntary
+Voluntary,242,fleet driver terminated,90,N,0,Misc,Other Voluntary
+Voluntary,243,fdd-inadequate talk/var content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,244,replace/repair,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Voluntary,245,purchased new radio,90,N,0,Misc,Other Voluntary
+Voluntary,246,bill frequency change,90,N,0,Billing,Other Voluntary
+Voluntary,247,not enough time in car,90,N,0,Not Listening,Other Voluntary
+Voluntary,248,partner terminated agreement,90,N,0,Misc,Other Voluntary
+Voluntary,249,Hertz Disconnect,90,N,0,Misc,Other Voluntary
+Involuntary,250,transfer to xm for business,90,N,0,Misc,Non Pay
+Voluntary,251,inadequate music content,90,N,0,Programming/ Music,Other Voluntary
+Transfer,252,replaced by oem trial vehicle,90,N,0,Replaced by OEM Trial Same Svc,Other Voluntary
+Voluntary,253,Installation too complicated,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Involuntary,254,equipment swap,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Non Pay
+Voluntary,255,Receiver Destroyed,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,256,Deceased/Illness,90,N,0,Deceased/Illness,Other Voluntary
+Voluntary,257,fdd-commercial interruptions,90,N,0,Programming/ General,Other Voluntary
+Voluntary,258,Equip/ Audio/ Recpt Dissatisfa,90,N,0,Equip/ Audio/ Recpt Dissatisfaction,Other Voluntary
+Involuntary,259,listener care error,90,N,0,Customer Service,Non Pay
+Voluntary,260,SIRI Req. Replace ,90,N,0,Admin,Other Voluntary
+Voluntary,261,reducing overall costs,90,N,0,Financial,Other Voluntary
+voluntary,262,Deactivation as part of Avis D,90,N,0,OEM CPO Deactivation,Vehicle Related
+Voluntary,263,lease termination,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,264,Warranty,90,N,0,Billing,Other Voluntary
+Voluntary,265,Chargeback,90,N,0,Customer Service,Other Voluntary
+Voluntary,266,Customer Service,90,N,0,Customer Service,Other Voluntary
+Voluntary,267,radio not working,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,268,Mexicana Deact,90,N,0,Programming/ Music ,Other Voluntary
+Voluntary,269,Used Car Automated Deactivation (ESB),90,N,0,OEM CPO Deactivation,UCAD
+Voluntary,270,Multi Sub Price Inc/No free SI,90,N,0,Cost of Service Increase,Other Voluntary
+Involuntary,271,demo period end date,90,N,0,Misc,Non Pay
+Voluntary,272,customer service - 3rd party,90,N,0,Customer Service,Other Voluntary
+Voluntary,273,fdd-billing,90,N,0,Billing,Other Voluntary
+Voluntary,274,Temporary,90,Y,180,Seasonal,Other Voluntary
+Voluntary,275,fdd-mail request received,90,N,0,Mail Request,Other Voluntary
+Voluntary,276,Wrong Plan Selected,90,N,0,Admin,Other Voluntary
+Voluntary,277,fdd-lease/loan term end date,90,N,0,Vehicle Related,Other Voluntary
+Voluntary,278,dj interruptions,90,N,0,Programming/ General,Other Voluntary
+Voluntary,279,troubleshooting,90,N,0,Misc,Other Voluntary
+Voluntary,280,Elimination of Free SIR,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,281,Transferred to Canada,90,N,0,Transferred to Canada,Other Voluntary
+Involuntary,282,account maintenance,90,N,0,Admin,Non Pay
+Voluntary,283,Misc,90,N,0,Misc,Other Voluntary
+Voluntary,284,lack of nfl,90,N,0,Competition,Other Voluntary
+Voluntary,285,Bankrupt,90,N,0,Financial,Other Voluntary
+Voluntary,286,fdd-lack of interest/awareness,90,N,0,Not Listening,Other Voluntary
+Voluntary,287,customer service,90,N,0,Customer Service,Other Voluntary
+Voluntary,288,TELEMATICS - CANCELLATION OF TRIAL AFTER Terms Accepted,90,N,0,TELEMATICS - CANCELLATION OF TRIAL AFTER Terms Acc,Other Voluntary
+Voluntary,289,audio programming content,90,N,0,Programming/ General,Other Voluntary
+Voluntary,290,Vehicle Related,90,N,0,Vehicle Related,Vehicle Related
+Involuntary,291,account set-up error,90,N,0,Admin,Non Pay
+Voluntary,292,deceased,90,N,0,Deceased/Illness,Other Voluntary
+Voluntary,293,defective radio,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,294,fdd-competition-music,90,N,0,Competition,Other Voluntary
+Voluntary,295,end free xmro,90,N,0,Cost of Service Increase,Other Voluntary
+Voluntary,296,fdd-inadequate news content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,297,fdd-lack of nfl,90,N,0,Competition,Other Voluntary
+Voluntary,298,fdd-demo/promotion end date,90,N,0,Misc,Other Voluntary
+Involuntary,299,admin deact/react,90,N,0,Admin,Non Pay
+Voluntary,300,Billing,90,N,0,Billing,Other Voluntary
+Voluntary,301,FOX News Deact,90,N,0,Programming/ Non-Music ,Other Voluntary
+Voluntary,302,competition-nfl,90,N,0,Competition,Other Voluntary
+Voluntary,303,fdd-not enough time in car,90,N,0,Not Listening,Other Voluntary
+Voluntary,304,customer service - xm,90,N,0,Customer Service,Other Voluntary
+Voluntary,305,commercial interruptions,90,N,0,Programming/ General,Other Voluntary
+Voluntary,306,Receiver Stolen,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,307,inadequate sports content,90,N,0,Programming/ Non-Music,Other Voluntary
+Voluntary,308,radio stolen,90,N,0,Radio Lost/Damaged,Other Voluntary
+Voluntary,309,fdd-competition-nfl,90,N,0,Competition,Other Voluntary

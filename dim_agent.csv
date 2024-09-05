@@ -1,0 +1,282 @@
+AGENT_ROLE_START_DATE,AGENT_ROLE_END_DATE,ACTIVATION_SOURCE,AGENT_LOB,AGENT_VENDOR,COLUMN17,AGENT_SUPERVISOR_RECORD_KEY,AGENT_STATUS,CURRENT_RECORD_FLAG,DELETED_RECORD_FLAG,AGENT_RECORD_KEY,AGENT_ROLE_SMS,AGENT_SITE,AGENT_SUPERVISOR_CSR_ID,CSR_ID,AGENT_ROLE_MARKETING,AGENT_LOCATION,AGENT_ID
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,1,Agent,Orlando,Not Defined,2638DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,410000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,2,Agent,DialAmerica,Not Defined,4918DA,Scripted Unclassified,DIAL AMERICA,9199376456
+2016-09-10 00:00:00,2016-09-10 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,3,Agent,Omaha,Not Defined,387DO,Scripted Unclassified,DIAL AMERICA-OMAHA,20416072281
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,4,Agent,Knoxville,Not Defined,1926DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,302000000000
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,5,Agent,EVANSVILLE,Not Defined,857TS,Scripted Unclassified,Evansville,21819680549
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,6,Agent,Lafayette,Not Defined,3854TL,Scripted Unclassified,TSD Lafayette,312000000000
+2016-09-03 00:00:00,2016-09-03 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,7,Agent,Akron,Not Defined,2927DAK,Outbound Scripted Sales,DIAL AMERICA-AKRON,410000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Outbound Sales,INDIA,DialAmerica,N,-1,I,Self Activation,N,8,Agent,GURGAON-HARYANA,Not Defined,981DG,Scripted Unclassified,DIAL AMERICA-GURGAON,416000000000
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,9,Agent,Rochester,Not Defined,522DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,21369004112
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,Y,N,10,Agent,Akron,Not Defined,139DAK,Scripted Unclassified,DIAL AMERICA-AKRON,9199366179
+2018-02-22 00:00:00,2018-02-24 00:00:00,Self Activation,Service,Alorica,,1837853,I,N,N,11,SavesAgent,Guatemala,384AGC,653AGC,Save,Guatemala,427000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,12,Agent,Qplaza,Not Defined,190RQ,Scripted Unclassified,Q Plaza Sales,300000000000
+2017-03-30 00:00:00,1999-12-31 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,A,Y,N,13,SalesOutbound,Rochester,Not Defined,4421DR,Outbound Scripted Sales,DIAL AMERICA-ROCHESTER,432000000000
+2016-09-14 00:00:00,2016-09-14 00:00:00,Unknown,INDIA,DialAmerica,N,-1,I,Self Activation,N,14,Agent,GURGAON-HARYANA,Not Defined,393DG,Scripted Unclassified,DIAL AMERICA-GURGAON,406000000000
+2015-11-09 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,Y,N,15,SavesAgent,Omaha,Not Defined,175DO2,Save,DIAL AMERICA-OMAHA,20416073689
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,16,Agent,Mahwah,Not Defined,2102DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,405000000000
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,17,Agent,STREAM-Costa Rica,Not Defined,14830CR,Scripted Unclassified,Costa Rica,9199462164
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,18,Agent,Lafayette,Not Defined,5169TL,Scripted Unclassified,TSD Lafayette,405000000000
+2016-08-31 00:00:00,2016-08-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,19,Agent,DialAmerica,Not Defined,3343DA,Scripted Unclassified,DIAL AMERICA,9199084206
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,20,Agent,DialAmerica,Not Defined,3289DA,Scripted Unclassified,DIAL AMERICA,9199256807
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,Alorica,,-1,I,N,N,21,Agent,Makati Sales,Not Defined,482WME,Scripted Unclassified,Makati Sales,309000000000
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,22,Agent,Qplaza,Not Defined,1179RQ,Scripted Unclassified,Q Plaza Sales,404000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,A,Y,N,23,Supervisor,Manila,Not Defined,2705P,Care,Manila,24214976918
+2016-09-15 00:00:00,2016-09-15 00:00:00,Unknown,UTAH,Results,N,-1,I,Self Activation,N,24,Agent,RESULTS-PROVO,Not Defined,640RU,Scripted Unclassified,Provo,23248039441
+2016-09-07 00:00:00,2016-09-07 00:00:00,Unknown,UTAH,Results,N,-1,I,Self Activation,N,25,Agent,RESULTS-PROVO,Not Defined,1289RU,Scripted Unclassified,Provo,302000000000
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,Alorica,,-1,I,N,N,26,Supervisor,Makati Sales,Not Defined,388WME,Inbound Scripted Sales,Makati Sales,306000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,27,Agent,Lafayette,Not Defined,5692TL,Scripted Unclassified,TSD Lafayette,406000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,28,Agent,Omaha,Not Defined,818DO,Scripted Unclassified,DIAL AMERICA-OMAHA,22583807906
+2000-01-01 00:00:00,2016-05-24 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,N,N,29,Agent,Cebu,Not Defined,483PH,Care,Cebu Convergys,9199350629
+2019-01-15 00:00:00,2019-01-24 00:00:00,Self Activation,Outbound Sales,Kipany,,-1,A,N,N,30,SalesOutbound,Bernard,Not Defined,549KBJOB,Outbound Scripted Sales,Bernard,449000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,31,Agent,Akron,Not Defined,2202DAK,Inbound Scripted Sales,DIAL AMERICA-AKRON,402000000000
+2019-11-23 00:00:00,2019-11-24 00:00:00,Self Activation,ATS,Alorica,,2465916,A,N,N,32,Sales Support,Cubao,5948AC,6087AC,Care,Cubao,447000000000
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,33,Agent,Winter Haven,Not Defined,523RF,Scripted Unclassified,Winter Haven,307000000000
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,34,Agent,Rochester,Not Defined,3439DR,Outbound Scripted Sales,DIAL AMERICA-ROCHESTER,417000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,35,Agent,DialAmerica,Not Defined,2760DA,Scripted Unclassified,DIAL AMERICA,9199213784
+2018-07-03 00:00:00,2018-07-03 00:00:00,Self Activation,Outbound Sales,Servicom,,1886231,I,N,N,37,ServiceContinuity,Sydney,1244SNS2,1428SNS2,Scripted Unclassified,Sydney,435000000000
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,38,Agent,RESULTS-LAWRENCE,Not Defined,377RL,Scripted Unclassified,Lawrence,307000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,39,Agent,Streator,Not Defined,735RS,Scripted Unclassified,Streator,414000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,Y,N,40,Agent,Manila,Not Defined,90P,Care,Manila,9199138758
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Results,,-1,I,Y,N,41,Agent,Newtown,Not Defined,1369RPH,Care,Newtown,412000000000
+2018-11-27 00:00:00,2018-11-27 00:00:00,Self Activation,Outbound Sales,Servicom,,2267826,I,N,N,42,SalesOutbound,Rockford,1106SIM,765SR,Outbound Scripted Sales,Rockford,443000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,43,Agent,Orlando,Not Defined,157DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,9199552468
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,44,Agent,Galax,Not Defined,288RV,Scripted Unclassified,Galax,9199534128
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,45,Agent,Omaha,Not Defined,409DO,Scripted Unclassified,DIAL AMERICA-OMAHA,20552714749
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,46,Agent,Omaha,Not Defined,510DO,Scripted Unclassified,DIAL AMERICA-OMAHA,20986275146
+2015-11-09 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Alorica,,-1,I,Y,N,47,SavesAgent,Cubao,Not Defined,3141AC,Save,Cubao,309000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,48,Agent,DialAmerica,Not Defined,2819DA,Scripted Unclassified,DIAL AMERICA,9199228996
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,49,Agent,Knoxville,Not Defined,826DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,21951947274
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,50,Agent,Lafayette,Not Defined,2614TL,Scripted Unclassified,TSD Lafayette,308000000000
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,51,Agent,Qplaza,Not Defined,1673RQ,Inbound Scripted Sales,Q Plaza Sales,410000000000
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,Y,N,52,Agent,Omaha,Not Defined,1704DO,Scripted Unclassified,DIAL AMERICA-OMAHA,308000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,A,N,N,53,Supervisor,Akron,Not Defined,1539DAK,Outbound Scripted Sales,DIAL AMERICA-AKRON,306000000000
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,54,Agent,Knoxville,Not Defined,3761DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,419000000000
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,Y,N,55,Agent,Lafayette,Not Defined,547TL,Scripted Unclassified,TSD Lafayette,24713188864
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,57,Agent,Akron,Not Defined,601DAK,Scripted Unclassified,DIAL AMERICA-AKRON,22968513784
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,58,Agent,Mahwah,Not Defined,855DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,22968508973
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,59,Agent,Rochester,Not Defined,2128DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,306000000000
+2016-05-25 00:00:00,2017-10-17 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,N,N,60,Agent,Cebu,Not Defined,2141PH,Care,Cebu Convergys Universal,301000000000
+2016-09-14 00:00:00,2016-09-14 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,61,Agent,Qplaza,Not Defined,714RQ,Scripted Unclassified,Q Plaza Sales,308000000000
+2018-09-09 00:00:00,2018-09-09 00:00:00,Self Activation,Inbound Sales,Results,,2018874,A,N,N,62,SalesInbound,Lipa,875RLPSS,1538RLP,Inbound Scripted Sales,Lipa,445000000000
+2017-09-16 00:00:00,2017-09-25 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,A,N,N,64,SalesOutbound,El Paso,Not Defined,2137DE,Outbound Scripted Sales,DIAL AMERICA-EL PASO,436000000000
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,65,Agent,Lafayette,Not Defined,5531TL,Scripted Unclassified,TSD Lafayette,406000000000
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,66,Agent,Mahwah,Not Defined,1110DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,24329301905
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,67,Agent,DialAmerica,Not Defined,16077DA,Scripted Unclassified,DIAL AMERICA,9199365868
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,Y,N,68,Agent,DialAmerica,Not Defined,3193DA,Scripted Unclassified,DIAL AMERICA,9199021418
+2015-11-23 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,Y,N,69,SalesOutbound,Orlando,Not Defined,3144DF,Outbound Scripted Sales,DIAL AMERICA-ORLANDO,419000000000
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,Ipacesetters,,-1,I,N,N,70,Agent,Monroe,Not Defined,459IPW,Scripted Unclassified,Ipacesetters-IPW,413000000000
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,71,Agent,Heredia,Not Defined,326RCR,Scripted Unclassified,Heredia,405000000000
+2018-10-28 00:00:00,2018-10-28 00:00:00,Self Activation,ART,Results,,2170106,A,N,N,72,ART,Lipa,339RLPC,312RLPC,Care,Lipa Care,443000000000
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,73,Agent,Lafayette,Not Defined,224TL,Scripted Unclassified,TSD Lafayette,22205854953
+2016-09-01 00:00:00,2016-09-01 00:00:00,Unknown,UTAH,Results,N,-1,I,Self Activation,N,74,Agent,RESULTS-PROVO,Not Defined,850RU,Scripted Unclassified,Provo,24640376266
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,Qualfon,,-1,I,N,N,75,Agent,Fort Collins,Not Defined,226QC,Inbound Scripted Sales,Fort Collins,413000000000
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Outbound Sales,Ipacesetters,,-1,I,Y,N,76,Agent,Mesa,Not Defined,960IPA,Outbound Scripted Sales,Ipacer-Sales,416000000000
+2018-09-26 00:00:00,2018-09-26 00:00:00,Self Activation,Outbound Sales,Servicom,,2066495,A,N,N,77,ServiceContinuity,Sydney,104SNS2,1554SNS2,Outbound Scripted Sales,Sydney,436000000000
+2016-09-07 00:00:00,2016-09-07 00:00:00,Unknown,UTAH,Results,N,-1,I,Self Activation,N,78,Agent,RESULTS-PROVO,Not Defined,1868RU,Scripted Unclassified,Provo,312000000000
+2016-09-25 00:00:00,2017-02-23 00:00:00,Self Activation,Unknown,Ipacesetters,,-1,I,N,N,79,Agent,Monroe,Not Defined,211IPW,Outbound Scripted Sales,Ipacesetters-IPW,405000000000
+2018-11-24 00:00:00,2018-11-24 00:00:00,Self Activation,Saves,Results,,2258389,I,N,N,80,SavesAgent,Lipa,630RLPSS,1184RLPSS,Save,Lipa Saves,443000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,81,Agent,DialAmerica,Not Defined,4722DA,Scripted Unclassified,DIAL AMERICA,9199433786
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,82,Agent,Knoxville,Not Defined,2339DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,308000000000
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,83,Agent,Rochester,Not Defined,2043DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,305000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,Y,N,84,Agent,Cape Breton,Not Defined,7190C,Care,Cape Breton,9199277185
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,85,Agent,Mahwah,Not Defined,596DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,21615685383
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,86,Agent,Akron,Not Defined,1068DAK,Scripted Unclassified,DIAL AMERICA-AKRON,301000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,87,Agent,DialAmerica,Not Defined,4526DA,Scripted Unclassified,DIAL AMERICA,9199430616
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,Y,N,88,Agent,Manila,Not Defined,3250P,Care,Manila,306000000000
+2018-08-19 00:00:00,2018-08-19 00:00:00,Self Activation,Outbound Sales,Servicom,,1971339,I,N,N,89,ServiceContinuity,Machesney,916SIM,2566SIM,Scripted Unclassified,Machesney,442000000000
+2016-09-10 00:00:00,2016-09-10 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,90,Agent,Omaha,Not Defined,2360DO,Scripted Unclassified,DIAL AMERICA-OMAHA,409000000000
+2017-10-24 00:00:00,2017-11-04 00:00:00,Self Activation,Unknown,Results,,1741567,A,N,N,91,SavesAgent,Winter Haven Saves,442RF2,853RF2,Save,Winter Haven Saves,435000000000
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,Ipacesetters,,-1,I,N,N,92,Agent,Mesa,Not Defined,921IPA,Scripted Unclassified,Ipacer-Sales,416000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,93,Agent,DialAmerica,Not Defined,4570DA,Scripted Unclassified,DIAL AMERICA,9199375195
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,95,Agent,Rochester,Not Defined,227DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,9199493367
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,96,Agent,Lafayette,Not Defined,1735TL,Scripted Unclassified,TSD Lafayette,305000000000
+2018-08-03 00:00:00,2018-08-09 00:00:00,Outbound Sales,MONTERREY,Mexico,N,1836257,A,Self Activation,N,97,SalesOutbound,GlobalTeleSourcing,380GTMM,650GTMM,Outbound Scripted Sales,Monterey,444000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,98,Agent,Lafayette,Not Defined,6496TL,Scripted Unclassified,TSD Lafayette,411000000000
+2016-09-14 00:00:00,2016-09-14 00:00:00,Self Activation,Unknown,Servicom,,-1,I,N,N,99,Agent,Machesney,Not Defined,344SIM,Scripted Unclassified,Machesney,404000000000
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,100,Agent,EVANSVILLE,Not Defined,3009TS,Scripted Unclassified,Evansville,307000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,101,Agent,Indianapolis,Not Defined,1352DIN,Scripted Unclassified,Dial - Indianapolis,417000000000
+2016-08-31 00:00:00,2016-08-31 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,102,Agent,Lafayette,Not Defined,5848TL,Scripted Unclassified,TSD Lafayette,407000000000
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,103,Agent,Akron,Not Defined,2986DAK,Scripted Unclassified,DIAL AMERICA-AKRON,411000000000
+2018-11-12 00:00:00,2018-11-12 00:00:00,Self Activation,Saves,Results,,2218154,I,N,N,104,SavesAgent,Lipa,218RLPSS,1275RLPSS,Save,Lipa Saves,444000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Outbound Sales,Ipacesetters,,-1,I,N,N,105,Agent,Monroe,Not Defined,270IPW,Outbound Scripted Sales,Ipacesetters-IPW,406000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,107,Agent,Mahwah,Not Defined,1005DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,23643898737
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,108,Agent,Knoxville,Not Defined,2555DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,312000000000
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,109,Agent,Lafayette,Not Defined,6425TL,Scripted Unclassified,TSD Lafayette,411000000000
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,110,Agent,DialAmerica,Not Defined,5001DA,Scripted Unclassified,DIAL AMERICA,9199391864
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,111,Agent,DialAmerica,Not Defined,15019DA,Scripted Unclassified,DIAL AMERICA,9199329338
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,113,Agent,Lafayette,Not Defined,2885TL,Scripted Unclassified,TSD Lafayette,309000000000
+2000-01-01 00:00:00,2015-11-08 00:00:00,Self Activation,Unknown,EGS,,-1,I,N,N,114,SR Agent,APAC-DAVENPORT_XM,Not Defined,2628AD,Care,Davenport,411000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,115,Agent,Knoxville,Not Defined,1927DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,302000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,116,Agent,Galax,Not Defined,1739RV,Scripted Unclassified,Galax,310000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,117,Agent,Lafayette,Not Defined,4685TL,Scripted Unclassified,TSD Lafayette,403000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,118,Agent,Omaha,Not Defined,348DO,Scripted Unclassified,DIAL AMERICA-OMAHA,20085534061
+2016-09-10 00:00:00,2016-09-10 00:00:00,Self Activation,Unknown,Straight Forward,,-1,I,N,N,119,Supervisor,Eau Claire,Not Defined,105SFE,Scripted Unclassified,Eau Claire,416000000000
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,120,Agent,Galax,Not Defined,448RV,Scripted Unclassified,Galax,20918991978
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,122,Agent,EVANSVILLE,Not Defined,1900TS,Scripted Unclassified,Evansville,25695993464
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,123,Agent,Rochester,Not Defined,3151DR,Outbound Scripted Sales,DIAL AMERICA-ROCHESTER,412000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,124,Agent,DialAmerica,Not Defined,3431DA,Scripted Unclassified,DIAL AMERICA,9199066127
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,125,Agent,Port Richey,Not Defined,996DN,Outbound Scripted Sales,DIAL AMERICA-PORT RICHEY,418000000000
+2016-09-14 00:00:00,2016-09-14 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,126,Agent,DialAmerica,Not Defined,1781DA,Scripted Unclassified,DIAL AMERICA,9199408907
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,127,Agent,Lafayette,Not Defined,1549TL,Scripted Unclassified,TSD Lafayette,305000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,128,Supervisor,Galax,Not Defined,140RV2,Scripted Unclassified,Galax,20177095063
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Outbound Sales,TeleServicesDirect,,-1,I,N,N,129,Agent,MANILA,Not Defined,1156TB,Outbound Scripted Sales,Fort Bonafacio,407000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,Y,N,131,Agent,Manila,Not Defined,513P,Care,Manila,9199244661
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,132,Agent,Galax,Not Defined,726RV,Scripted Unclassified,Galax,23103483667
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,133,Agent,Heredia,Not Defined,122RCR,Scripted Unclassified,Heredia,310000000000
+2016-08-31 00:00:00,2016-08-31 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,134,Agent,Qplaza,Not Defined,1044RQ,Inbound Scripted Sales,Q Plaza Sales,402000000000
+2018-11-10 00:00:00,2018-11-10 00:00:00,Self Activation,Saves,Results,,2212053,I,N,N,135,Supervisor,Lipa,1091RLPSS,643RLPSS,Care,Lipa Saves,431000000000
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,136,Agent,Galax,Not Defined,1577RV,Scripted Unclassified,Galax,308000000000
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,137,Agent,Lafayette,Not Defined,1651TL,Scripted Unclassified,TSD Lafayette,305000000000
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,138,Agent,Lafayette,Not Defined,1261TL,Scripted Unclassified,TSD Lafayette,304000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,139,Supervisor,Winter Haven,Not Defined,129RF,Scripted Unclassified,Winter Haven,23643894470
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,140,Agent,Mahwah,Not Defined,1459DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,301000000000
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,141,Agent,STREAM-Costa Rica,Not Defined,14353CR,Scripted Unclassified,Costa Rica,9199493790
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,142,Agent,EVANSVILLE,Not Defined,2576TS,Scripted Unclassified,Evansville,304000000000
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,Alorica,,-1,I,N,N,143,Agent,WEST-Tulsa,Not Defined,173WT,Scripted Unclassified,Tulsa,312000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,Y,N,145,Agent,Santo Domingo,Not Defined,2896S,Care,Santo Domingo,9199177378
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,146,Agent,Heredia,Not Defined,565RCR,Inbound Scripted Sales,Heredia,412000000000
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,147,Agent,Lafayette,Not Defined,6320TL,Scripted Unclassified,TSD Lafayette,410000000000
+2017-10-14 00:00:00,2017-10-23 00:00:00,Outbound Sales,MONTERREY,Mexico,N,-1,A,Self Activation,N,148,SalesOutbound,GlobalTeleSourcing,Not Defined,318GTMM,Outbound Scripted Sales,Monterey,437000000000
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,149,Agent,Knoxville,Not Defined,2206DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,306000000000
+2016-09-03 00:00:00,2016-09-03 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,150,Agent,Rochester,Not Defined,256DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,20091273580
+2015-11-09 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,Y,N,151,SavesAgent,Tampa,Not Defined,605TRO,Save,Tampa,407000000000
+2016-08-30 00:00:00,2016-08-30 00:00:00,Unknown,UTAH,Results,N,-1,I,Self Activation,N,152,Agent,RESULTS-PROVO,Not Defined,1292RU,Scripted Unclassified,Provo,302000000000
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,153,Agent,Rochester,Not Defined,163DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,9199351937
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,154,Agent,EVANSVILLE,Not Defined,440TS,Scripted Unclassified,Evansville,20319994603
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,155,Agent,DialAmerica,Not Defined,14759DA,Scripted Unclassified,DIAL AMERICA,9199458981
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,156,Agent,STREAM-Costa Rica,Not Defined,11891CR,Scripted Unclassified,Costa Rica,9199346246
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Outbound Sales,TeleServicesDirect,,-1,I,N,N,157,Agent,MANILA,Not Defined,841TB,Outbound Scripted Sales,Fort Bonafacio,401000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,158,Agent,Omaha,Not Defined,2615DO,Scripted Unclassified,DIAL AMERICA-OMAHA,416000000000
+2018-11-06 00:00:00,2018-11-06 00:00:00,Self Activation,Outbound Sales,Servicom,,2197739,I,N,N,159,SalesOutbound,Sydney,100SNS2,1892SNS2,Outbound Scripted Sales,Sydney,443000000000
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,Alorica,,1700146,A,N,N,160,Supervisor,WEST OMAHA-Sales,545WN2,345WN2,Inbound Scripted Sales,Omaha-Sales,413000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,161,Agent,Pittsburgh,Not Defined,168DP,Scripted Unclassified,DIAL AMERICA-PITTSBURGH,9199365905
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,162,Agent,DialAmerica,Not Defined,16019DA,Scripted Unclassified,DIAL AMERICA,9199379271
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,163,Agent,Akron,Not Defined,1996DAK,Scripted Unclassified,DIAL AMERICA-AKRON,311000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,164,Supervisor,Rochester,Not Defined,2788DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,406000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,165,Agent,DialAmerica,Not Defined,2206DA,Outbound Scripted Sales,DIAL AMERICA,9199126837
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Outbound Sales,TeleServicesDirect,,-1,I,N,N,166,Agent,Indianapolis,Not Defined,360TIOB,Outbound Scripted Sales,Indianapolis,414000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,167,Agent,Akron,Not Defined,3037DAK,Scripted Unclassified,DIAL AMERICA-AKRON,411000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,168,Agent,Orlando,Not Defined,2696DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,411000000000
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,169,Agent,Qplaza,Not Defined,247RQ,Scripted Unclassified,Q Plaza Sales,301000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,170,Agent,MANILA,Not Defined,142TB,Scripted Unclassified,Fort Bonafacio,25182216064
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,Ipacesetters,,-1,I,N,N,172,Agent,Tulsa,Not Defined,227IPT2OB,Scripted Unclassified,Tulsa,408000000000
+2018-11-21 00:00:00,2018-11-21 00:00:00,Self Activation,Outbound Sales,Servicom,,2250843,A,N,N,173,ServiceContinuity,Machesney,2895SIM,868SIM,Outbound Scripted Sales,Machesney,423000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,174,Supervisor,EVANSVILLE,Not Defined,1032TS,Scripted Unclassified,Evansville,22968549989
+2019-08-09 00:00:00,2019-12-17 00:00:00,Self Activation,Inbound Sales,Qualfon,,2375958,A,N,N,175,SalesInbound,Guyana,304QGYIB,680QGYIB,Inbound Scripted Sales,Guyana,455000000000
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,176,Agent,Galax,Not Defined,675RV,Scripted Unclassified,Galax,22726082372
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,177,Agent,Qplaza,Not Defined,1982RQ,Inbound Scripted Sales,Q Plaza Sales,412000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,178,Agent,Omaha,Not Defined,1086DO,Scripted Unclassified,DIAL AMERICA-OMAHA,24064792357
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Outbound Sales,Ipacesetters,,-1,I,N,N,179,Agent,Tulsa,Not Defined,237IPT2OB,Outbound Scripted Sales,Tulsa,408000000000
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,180,Agent,Galax,Not Defined,207RV,Scripted Unclassified,Galax,9199516187
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,181,Agent,Rochester,Not Defined,1720DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,301000000000
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,182,Agent,Galax,Not Defined,2259RV,Scripted Unclassified,Galax,409000000000
+2016-09-08 00:00:00,2016-09-08 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,183,Agent,DialAmerica,Not Defined,2470DA,Scripted Unclassified,DIAL AMERICA,9199155364
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,184,Supervisor,Heredia,Not Defined,129RCR,Scripted Unclassified,Heredia,310000000000
+2016-08-31 00:00:00,2016-08-31 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,185,Agent,Lafayette,Not Defined,4922TL,Scripted Unclassified,TSD Lafayette,404000000000
+2016-09-14 00:00:00,2016-09-14 00:00:00,Self Activation,Unknown,Servicom,,-1,I,N,N,186,Agent,Sydney,Not Defined,282SN,Scripted Unclassified,Sydney,306000000000
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,187,Agent,Lipa,Not Defined,300RLP,Inbound Scripted Sales,Lipa,414000000000
+2016-09-05 00:00:00,2016-09-05 00:00:00,Unknown,UTAH,Results,N,-1,I,Self Activation,N,188,Supervisor,RESULTS-PROVO,Not Defined,356RU,Scripted Unclassified,Provo,21250528693
+2016-09-13 00:00:00,2016-09-13 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,189,Agent,EVANSVILLE,Not Defined,1094TS,Scripted Unclassified,Evansville,23180882656
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,190,Agent,Streator,Not Defined,462RS,Scripted Unclassified,Streator,310000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,191,Agent,EVANSVILLE,Not Defined,906TS,Scripted Unclassified,Evansville,22066678954
+2018-08-19 00:00:00,2018-08-19 00:00:00,Self Activation,Unknown,Qualfon,,1971614,I,N,N,193,SalesInbound,Paco Manila,527QPMIB,608QPMIB,Inbound Scripted Sales,Paco Manila,433000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Results,,-1,I,Y,N,194,Agent,Newtown,Not Defined,1719RPH,Care,Newtown,418000000000
+2018-07-30 00:00:00,2018-07-30 00:00:00,Self Activation,Outbound Sales,Servicom,,1932596,I,N,N,195,SalesOutbound,Machesney,1739SIM,2553SIM,Outbound Scripted Sales,Machesney,442000000000
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,196,Agent,Indianapolis,Not Defined,491DIN,Scripted Unclassified,Dial - Indianapolis,405000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,197,Agent,Knoxville,Not Defined,3356DK,Outbound Scripted Sales,DIAL AMERICA-KNOXVILLE,413000000000
+2018-03-25 00:00:00,2018-03-27 00:00:00,Self Activation,Unknown,Alorica,,1845443,I,N,N,198,Supervisor,Guatemala,768AGC,957AGC,Care,Guatemala,432000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,199,Agent,EVANSVILLE,Not Defined,3885TS,Scripted Unclassified,Evansville,310000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,201,Agent,Mahwah,Not Defined,463DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,20807495174
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,202,Agent,EVANSVILLE,Not Defined,3109TS,Scripted Unclassified,Evansville,307000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,203,Agent,Knoxville,Not Defined,1094DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,23103477064
+2016-09-25 00:00:00,1999-12-31 00:00:00,Unknown,INDIA,DialAmerica,N,-1,I,Self Activation,Y,204,Agent,GURGAON-HARYANA,Not Defined,742DG,Scripted Unclassified,DIAL AMERICA-GURGAON,412000000000
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,206,Agent,Orlando,Not Defined,2638DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,410000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,207,Agent,Winter Haven,Not Defined,393RF,Scripted Unclassified,Winter Haven,304000000000
+2019-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,A,Y,N,208,Sales Supervisor,Indianapolis,Not Defined,4014DIN,Scripted Unclassified,Dial - Indianapolis,448000000000
+2017-11-14 00:00:00,2017-12-02 00:00:00,Self Activation,Outbound Sales,DialAmerica,,1797654,A,N,N,209,SalesOutbound,Akron,4609DAK,4333DAK,Outbound Scripted Sales,DIAL AMERICA-AKRON,430000000000
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,210,Agent,Lafayette,Not Defined,4925TL,Scripted Unclassified,TSD Lafayette,404000000000
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,211,Agent,Indianapolis,Not Defined,764DIN,Scripted Unclassified,Dial - Indianapolis,408000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Unknown,KENTUCKY,Sykes,N,-1,I,Self Activation,N,212,Agent,SYKES-LOUISVILLE,Not Defined,108SK,Scripted Unclassified,Louisville,9199529481
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,213,Agent,Port Richey,Not Defined,441DN,Scripted Unclassified,DIAL AMERICA-PORT RICHEY,310000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,214,Agent,Rochester,Not Defined,3123DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,411000000000
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,Servicom,,-1,I,N,N,215,Agent,Sydney,Not Defined,317SN,Scripted Unclassified,Sydney,308000000000
+2016-09-03 00:00:00,2016-09-03 00:00:00,Self Activation,Outbound Sales,AFNI,,-1,I,N,N,216,Agent,Quezon City,Not Defined,106AQOB,Outbound Scripted Sales,Afni,406000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,218,Agent,Heredia,Not Defined,381RCR,Inbound Scripted Sales,Heredia,406000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,219,Agent,Akron,Not Defined,958DAK,Scripted Unclassified,DIAL AMERICA-AKRON,25858258851
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,220,Agent,Port Richey,Not Defined,199DN,Scripted Unclassified,DIAL AMERICA-PORT RICHEY,21951948235
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Outbound Sales,Results,,-1,I,N,N,221,Agent,Lipa,Not Defined,111RLPOB,Scripted Unclassified,Lipa,418000000000
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,222,Agent,Qplaza,Not Defined,186RQ,Scripted Unclassified,Q Plaza Sales,300000000000
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,223,Agent,STREAM-Costa Rica,Not Defined,14952CR,Scripted Unclassified,Costa Rica,9198898496
+2018-10-25 00:00:00,2018-10-25 00:00:00,Self Activation,Saves,Results,,2157924,A,N,N,224,SavesAgent,Lipa,639RLPSS,1158RLPSS,Save,Lipa Saves,442000000000
+2018-09-01 00:00:00,2018-09-01 00:00:00,Self Activation,Outbound Sales,Servicom,,1996746,A,N,N,225,ServiceContinuity,Sydney,111SNS2,129SNS2,Outbound Scripted Sales,Sydney,428000000000
+2016-09-13 00:00:00,2016-09-13 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,226,Agent,STREAM-Costa Rica,Not Defined,14881CR,Scripted Unclassified,Costa Rica,9199393263
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,227,Agent,Mahwah,Not Defined,147DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,9199355769
+2018-10-07 00:00:00,2018-10-07 00:00:00,Self Activation,Outbound Sales,Servicom,,2100403,I,N,N,228,SalesOutbound,Machesney,1215SIM,2057SIM,Outbound Scripted Sales,Machesney,436000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,229,Agent,Orlando,Not Defined,2291DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,406000000000
+2016-09-09 00:00:00,2016-09-09 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,230,Agent,Qplaza,Not Defined,899RQ,Scripted Unclassified,Q Plaza Sales,312000000000
+2018-11-29 00:00:00,2018-11-29 00:00:00,Self Activation,Outbound Sales,Servicom,,2275298,I,N,N,231,SalesOutbound,Sydney,1557SNS2,1669SNS2,Outbound Scripted Sales,Sydney,439000000000
+2016-09-13 00:00:00,2016-09-13 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,232,Agent,Orlando,Not Defined,2436DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,407000000000
+2016-09-04 00:00:00,2016-09-04 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,233,Agent,Indianapolis,Not Defined,810DIN,Scripted Unclassified,Dial - Indianapolis,409000000000
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,234,Agent,Rochester,Not Defined,1504DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,25777955760
+2000-01-01 00:00:00,2016-08-29 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,235,Agent,Mahwah,Not Defined,901DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,23103467604
+2016-09-14 00:00:00,2016-09-14 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,236,Agent,EVANSVILLE,Not Defined,5021TS,Scripted Unclassified,Evansville,404000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,237,Agent,Qplaza,Not Defined,1055RQ,Inbound Scripted Sales,Q Plaza Sales,402000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Alorica,,-1,I,Y,N,238,Agent,Alabang,Not Defined,1307AB,Care,Alabang,306000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,240,Agent,Akron,Not Defined,1152DAK,Scripted Unclassified,DIAL AMERICA-AKRON,301000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,241,Agent,Omaha,Not Defined,1190DO,Scripted Unclassified,DIAL AMERICA-OMAHA,24626800602
+2016-09-14 00:00:00,2016-09-14 00:00:00,Self Activation,Outbound Sales,Ipacesetters,,-1,I,N,N,242,Agent,Mesa,Not Defined,628IPA,Outbound Scripted Sales,Ipacer-Sales,410000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,243,Agent,Orlando,Not Defined,1448DF,Scripted Unclassified,DIAL AMERICA-ORLANDO,304000000000
+2018-11-15 00:00:00,2018-11-15 00:00:00,Self Activation,Inbound Sales,Qualfon,,2227799,A,N,N,244,SalesInbound,Paco Manila,125QPMIB,509QPMIB,Inbound Scripted Sales,Paco Manila,430000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,245,Agent,Lafayette,Not Defined,1006TL,Scripted Unclassified,TSD Lafayette,301000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,N,N,246,Supervisor,Omaha,Not Defined,2432DO,Outbound Scripted Sales,DIAL AMERICA-OMAHA,410000000000
+2018-07-30 00:00:00,2018-07-30 00:00:00,Self Activation,Outbound Sales,Servicom,,1932356,I,N,N,247,ServiceContinuity,Machesney,1215SIM,1234SIM,Scripted Unclassified,Machesney,429000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,248,Agent,EVANSVILLE,Not Defined,4962TS,Scripted Unclassified,Evansville,404000000000
+2016-06-07 00:00:00,1999-12-31 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,A,Y,N,249,SalesOutbound,El Paso,Not Defined,1739DE,Outbound Scripted Sales,DIAL AMERICA-EL PASO,425000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,250,Agent,Knoxville,Not Defined,1423DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,24329295538
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,251,Agent,Lafayette,Not Defined,6182TL,Scripted Unclassified,TSD Lafayette,409000000000
+2018-08-24 00:00:00,2018-08-24 00:00:00,Self Activation,Unknown,Servicom,,1982138,I,N,N,252,SalesOutbound,Machesney,2577SIM,2630SIM,Outbound Scripted Sales,Machesney,443000000000
+2016-09-15 00:00:00,2016-09-15 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,253,Agent,EVANSVILLE,Not Defined,273TS,Scripted Unclassified,Evansville,9199555896
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,Y,N,254,Agent,MANILA,Not Defined,332TB,Scripted Unclassified,Fort Bonafacio,305000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,255,Agent,Omaha,Not Defined,2275DO,Scripted Unclassified,DIAL AMERICA-OMAHA,407000000000
+2019-11-08 00:00:00,2019-11-08 00:00:00,Self Activation,Unknown,Results,,2384398,A,N,N,256,SavesAgent,Newtown,4450RPH,4821RPH,Save,Newtown,459000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,257,Agent,DialAmerica,Not Defined,16000DA,Scripted Unclassified,DIAL AMERICA,9199187924
+2019-10-11 00:00:00,2019-11-28 00:00:00,Self Activation,ART,Results,,1709773,A,N,N,258,ART,Qplaza,174RQE,5003RQE,Care,Q Plaza Care,453000000000
+2016-08-30 00:00:00,2016-08-30 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,259,Agent,DialAmerica,Not Defined,3655DA,Scripted Unclassified,DIAL AMERICA,9199115307
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,Concentrix,,-1,I,N,N,260,Agent,Belfast,Not Defined,171CBI,Scripted Unclassified,Belfast,407000000000
+2018-10-13 00:00:00,2018-10-13 00:00:00,Self Activation,Saves,Results,,2118564,I,N,N,261,SalesOutbound,Lipa,635RLPSS,407RLPOB,Outbound Scripted Sales,Lipa,430000000000
+2018-07-02 00:00:00,2018-07-02 00:00:00,Self Activation,Outbound Sales,Servicom,,1884861,I,N,N,262,Sales Supervisor,Sydney,101SNS2,1647SNS2,Scripted Unclassified,Sydney,439000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Convergys,,-1,I,Y,N,263,Agent,Colonnade,Not Defined,205CA,Care,Colonnade,300000000000
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,264,Agent,EVANSVILLE,Not Defined,00160TS,Scripted Unclassified,Evansville,9199187660
+2016-09-07 00:00:00,2016-09-07 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,265,Agent,Mahwah,Not Defined,301DM,Scripted Unclassified,DIAL AMERICA-MAHWAH,20091257511
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,266,Agent,Lafayette,Not Defined,4121TL,Scripted Unclassified,TSD Lafayette,401000000000
+2018-11-09 00:00:00,2018-11-11 00:00:00,Self Activation,Saves,Alorica,,2207109,I,N,N,267,SavesAgent,Guatemala,384AGC,1918AGC,Save,Guatemala,444000000000
+2000-01-01 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Alorica,,-1,I,Y,N,268,Agent,Makati City,Not Defined,631WM,Care,Makati Care,24476462857
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,269,Agent,Knoxville,Not Defined,2243DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,307000000000
+2019-06-07 00:00:00,1999-12-31 00:00:00,Self Activation,Unknown,Transparent,,-1,A,Y,N,271,Sales Supervisor,Belize,Not Defined,161TPBOB,Scripted Unclassified,Belize,453000000000
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,272,Agent,STREAM-Costa Rica,Not Defined,15007CR,Scripted Unclassified,Costa Rica,9199133642
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Outbound Sales,TeleServicesDirect,,-1,I,N,N,274,Agent,Lafayette,Not Defined,6507TL,Outbound Scripted Sales,TSD Lafayette,412000000000
+2016-08-31 00:00:00,2016-08-31 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,275,Agent,Rochester,Not Defined,2064DR,Scripted Unclassified,DIAL AMERICA-ROCHESTER,306000000000
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,276,Supervisor,Qplaza,Not Defined,175RQ,Scripted Unclassified,Q Plaza Sales,300000000000
+2016-09-24 00:00:00,2016-09-24 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,277,Agent,Akron,Not Defined,1076DAK,Scripted Unclassified,DIAL AMERICA-AKRON,301000000000
+2019-10-12 00:00:00,2020-01-03 00:00:00,Self Activation,ART,Concentrix,,2434805,I,N,N,278,ART,Manila,3735P,5671P,Care,Manila,439000000000
+2016-09-02 00:00:00,2016-09-02 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,279,Agent,Akron,Not Defined,599DAK,Scripted Unclassified,DIAL AMERICA-AKRON,22968522794
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,Alorica,,-1,I,N,N,280,Agent,Makati Sales,Not Defined,890WME,Inbound Scripted Sales,Makati Sales,415000000000
+2016-09-01 00:00:00,2016-09-01 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,281,Agent,Lafayette,Not Defined,4170TL,Scripted Unclassified,TSD Lafayette,401000000000
+2016-09-21 00:00:00,2016-09-21 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,282,Agent,EVANSVILLE,Not Defined,4674TS,Scripted Unclassified,Evansville,403000000000
+2016-09-03 00:00:00,2016-09-03 00:00:00,Self Activation,Unknown,TeleServicesDirect,,-1,I,N,N,283,Agent,EVANSVILLE,Not Defined,997TS,Scripted Unclassified,Evansville,22792254916
+2016-09-23 00:00:00,2016-09-23 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,284,Agent,Akron,Not Defined,249DAK,Scripted Unclassified,DIAL AMERICA-AKRON,20807488276
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,285,Agent,Omaha,Not Defined,250DO,Scripted Unclassified,DIAL AMERICA-OMAHA,9199466931
+2016-09-12 00:00:00,2016-09-12 00:00:00,Self Activation,Outbound Sales,TeleServicesDirect,,-1,I,N,N,286,Agent,Indianapolis,Not Defined,110TIOB,Outbound Scripted Sales,Indianapolis,409000000000
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,287,Agent,STREAM-Costa Rica,Not Defined,14463CR,Scripted Unclassified,Costa Rica,9199465503
+2016-09-10 00:00:00,2016-09-10 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,288,Agent,Knoxville,Not Defined,2586DK,Scripted Unclassified,DIAL AMERICA-KNOXVILLE,401000000000
+2016-09-25 00:00:00,1999-12-31 00:00:00,Self Activation,Outbound Sales,DialAmerica,,-1,I,Y,N,289,Agent,DialAmerica,Not Defined,2676DA,Outbound Scripted Sales,DIAL AMERICA,9199180870
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,Ipacesetters,,-1,I,N,N,290,Agent,Mesa,Not Defined,333IPA,Scripted Unclassified,Ipacer-Sales,406000000000
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,291,Supervisor,Qplaza,Not Defined,592RQ,Scripted Unclassified,Q Plaza Sales,305000000000
+2016-09-05 00:00:00,2016-09-05 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,292,Agent,Akron,Not Defined,2015DAK,Scripted Unclassified,DIAL AMERICA-AKRON,311000000000
+2016-09-03 00:00:00,2016-09-03 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,293,Agent,Qplaza,Not Defined,268RQ,Scripted Unclassified,Q Plaza Sales,301000000000
+2016-09-16 00:00:00,2016-09-20 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,294,Agent,Port Richey,Not Defined,662DN,Scripted Unclassified,DIAL AMERICA-PORT RICHEY,406000000000
+2016-09-06 00:00:00,2016-09-06 00:00:00,Self Activation,Unknown,Results,,-1,I,N,N,295,Agent,Galax,Not Defined,624RV,Scripted Unclassified,Galax,22397922956
+2016-09-11 00:00:00,2016-09-11 00:00:00,Self Activation,Unknown,DialAmerica,,-1,I,N,N,296,Agent,Omaha,Not Defined,1401DO,Scripted Unclassified,DIAL AMERICA-OMAHA,301000000000
+2000-01-01 00:00:00,2015-11-08 00:00:00,Self Activation,Outbound Sales,Servicom,,-1,I,N,N,297,SR Agent,Rockford,Not Defined,228SR,Care,Rockford,417000000000
+2016-09-22 00:00:00,2016-09-22 00:00:00,Self Activation,Unknown,Convergys,,-1,I,N,N,298,Agent,STREAM-Costa Rica,Not Defined,14537CR,Scripted Unclassified,Costa Rica,9199462448
